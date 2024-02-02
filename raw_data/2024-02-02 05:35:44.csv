@@ -1,0 +1,26 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,Data Engineer,Data Engineer,Synechron Technologies Private Limited,"Data Engineer,Python,Scala,Sql",Full time,"Delhi, Kolkata",5-8 Years
+2,Data Engineer,Data Engineer,Synechron Technologies Private Limited,"Data Engineer,Python,Scala,Sql",Full time,"Bengaluru / Bangalore, Pune",5-8 Years
+3,Data Engineer,Data Engineer - OACS,LTIMindtree Limited,"OACS,OAC,OAS",Full time,Mumbai,3-8 Years
+4,Data Engineer,Azure Data Engineer,LTIMindtree Limited,"Azure Datafactory,Azure Databricks",Full time,"Bengaluru / Bangalore, Chennai",5-10 Years
+5,Data Engineer,Data Engineer,Career Foresight Hr Solutions Llp,Data Engineer,Full time,Cochin / Kochi / Ernakulam,6-10 Years
+6,Data Analyst,Data Quality Analyst,Synechron Technologies Private Limited,"Data Quality Analyst,Data Quality,Data Management",Full time,"Delhi, Kolkata",5-7 Years
+7,Data Analyst,Data Quality Analyst,Synechron Technologies Private Limited,"Data Quality Analyst,Data Quality,Data Management",Full time,"Bengaluru / Bangalore, Pune",5-7 Years
+8,Data Analyst,Data Analyst,S&P Global,"MS-office,analytical,secondary research sources",Full time,"Ahmedabad, India",0-2 Years
+9,Data Analyst,Data Analyst required in Canada,Company name confidential,"Data Analyst,MIS Analyst,Reporting Analyst","International, Full time",Canada,3-10 Years
+10,Data Analyst,Data Analyst Internship an Pune,Maxgen Technologies Private Limited,"Internship,Live Projects,Academic Projects",Full time,"Pune, Sangli",Fresher
+11,Data Architect,Data Architect,Synechron Technologies Private Limited,"Data Architect,Solution Architecture,Python",Full time,"Delhi, Kolkata",10-13 Years
+12,Data Architect,Data Architect,Synechron Technologies Private Limited,"Data Architect,Solution Architecture,Python",Full time,"Bengaluru / Bangalore, Pune",10-13 Years
+13,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Bengaluru / Bangalore, India",8-10 Years
+14,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Gurgaon / Gurugram, India",8-10 Years
+15,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Jaipur, India",8-10 Years
+16,Data Scientist,Senior Data Scientist Engineer,A.P. Moller - Maersk,"KubeFlow,Airflow,Scikit-Learn,Recommendation Systems",Full time,"Bengaluru / Bangalore, India",0-10 Years
+17,Data Scientist,Data Scientist Manager,Mpowering HR Solutions,"R,customer analytics,Social Media,costomer serivice","Contract Job, Part time","Bengaluru / Bangalore, Pune",8-12 Years
+18,Data Scientist,Data Scientist,Company name confidential,"Machine Learning,Python",Full time,Bengaluru / Bangalore,1-6 Years
+19,Data Scientist,Lead Data Scientist,Epsilon India,"Ai,DL,attribution modeling,Classification",Full time,"Bengaluru / Bangalore, India",8-10 Years
+20,Data Scientist,Sr. D&T Data Scientist,General Mills,"composer,ML supervised algorithms,FMCG/CPG domain",Full time,"Mumbai, India",10-12 Years
+21,Machine Learning Engineer,Machine Learning Engineer Required in Abroad,Donivia Overseas Private Limited,"machine learning engineer,Machine Learning",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",2-12 Years
+22,Machine Learning Engineer,Python Developer,HCL Technologies Limited,"Python,Microservices,Kubernetes,Machine Learning",Full time,Bengaluru / Bangalore,3-10 Years
+23,Machine Learning Engineer,Machine Learning Engineer (WFH),Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Chennai, India",6-8 Years
+24,Machine Learning Engineer,Machine Learning Engineer,True Tech Professionals Private Limited,"LLMs,BERT,GPT -variant,tensor flow,Transformer",Full time,Remote,6-16 Years
+25,Machine Learning Engineer,Sr. Machine Learning Engineer (WFH),Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Bengaluru / Bangalore, India",6-8 Years
