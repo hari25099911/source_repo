@@ -1,0 +1,501 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,Data Engineer,Data Engineer,Synechron Technologies Private Limited,"Data Engineer,Python,Scala,Sql",Full time,"Delhi, Kolkata",5-8 Years
+2,Data Engineer,Data Engineer,Synechron Technologies Private Limited,"Data Engineer,Python,Scala,Sql",Full time,"Bengaluru / Bangalore, Pune",5-8 Years
+3,Data Engineer,Data Engineer - OACS,LTIMindtree Limited,"OACS,OAC,OAS",Full time,Mumbai,3-8 Years
+4,Data Engineer,Azure Data Engineer,LTIMindtree Limited,"Azure Datafactory,Azure Databricks",Full time,"Bengaluru / Bangalore, Chennai",5-10 Years
+5,Data Engineer,Data Engineer,Career Foresight Hr Solutions Llp,Data Engineer,Full time,Cochin / Kochi / Ernakulam,6-10 Years
+6,Data Engineer,GCP Data Engineer,LTIMindtree Limited,"Gcp,BigQuery,Python",Full time,"Indore, Nagpur",3-13 Years
+7,Data Engineer,Data Engineer,Dmaic Academy And Consultancy,"Python,Pyspark,Databricks",Full time,Coimbatore,6-12 Years
+8,Data Engineer,GCP Data Engineer,LTIMindtree Limited,"Gcp,BigQuery,Python",Full time,"Chennai, Delhi",3-13 Years
+9,Data Engineer,GCP Data Engineer,LTIMindtree Limited,"Gcp,BigQuery,Python",Full time,"Mumbai, Pune",3-13 Years
+10,Data Engineer,GCP Data Engineer,LTIMindtree Limited,"Gcp,BigQuery,Python",Full time,"Kolkata, Jaipur",3-13 Years
+11,Data Engineer,GCP Data Engineer,LTIMindtree Limited,"Gcp,BigQuery,Python",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",3-13 Years
+12,Data Engineer,Data Engineer -2,Dmaic Academy And Consultancy,"Azure Data Factor,Synapse",Full time,Coimbatore,6-12 Years
+13,Data Engineer,Azure Data Engineer,LTIMindtree Limited,"Azure,Python,Pyspark",Full time,Kolkata,5-8 Years
+14,Data Engineer,GCP Data Engineer,Future A4,"Gcp,Data Engineer,Spark,python,Big Data",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",5-10 Years
+15,Data Engineer,AWS Data Engineer,LTIMindtree Limited,"Talend,AWS",Full time,Kolkata,5-8 Years
+16,Data Engineer,Azure Data Engineer,Covalense Technologies Private Limited,"""Data engineer"",""Databricks"",""Data bricks""",Full time,Bengaluru / Bangalore,7-12 Years
+17,Data Engineer,Azure Data Engineer,Tiyasha Software Private Limited,"Azure,Sql,Etl,Data Engineer",Full time,Mumbai,6-12 Years
+18,Data Engineer,Market Data Infrastructure Engineer,Crypto.com,"Chef,GitLab CI/CD,Security,Thomson Reuters Enterprise Platform",Full time,"Bengaluru / Bangalore, India",7-9 Years
+19,Data Engineer,Principal Data Engineer,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Coimbatore, India",0-8 Years
+20,Data Engineer,Data Engineer,HighPoints Technologies India Private Limited,Data Engineer,Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",7-12 Years
+21,Data Engineer,BI Data Engineer,HighPoints Technologies India Private Limited,BI Data Engineer,Full time,Gurgaon / Gurugram,5-10 Years
+22,Data Engineer,GCP Data Engineer,Talent Toppers LLP,"""Data Engineer"",""Bigdata"",""hadoop"",Gcp",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",4-8 Years
+23,Data Engineer,Data Engineer and Senior Data Engineer,Tiyasha Software Private Limited,"Data Engineer,Azure Data Factory,Azure Synapse",Full time,Mumbai,3-10 Years
+24,Data Engineer,Senior Data Engineer,Apexon,"snowflake,Data Engineer,Python,Java",Full time,Pune,4-8 Years
+25,Data Engineer,Sr. Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Delhi, India",8-10 Years
+26,Data Engineer,Senior Data Engineer,Apexon,"snowflake,Data Engineer,Python,Java",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",4-8 Years
+27,Data Engineer,Big Data Engineer,Aarika Hr Professionals Private Limited,"Etl Tools,Sql,AWS,Azure",Full time,Jaipur,1-5 Years
+28,Data Engineer,GCP Data Engineer,Future A4,"Gcp,Data Engineer,Spark,python,Big Data",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",5-10 Years
+29,Data Engineer,Data Engineer,HighPoints Technologies India Private Limited,"Data Engineer,Etl,SSIS,Adf,Sql",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",5-10 Years
+30,Data Engineer,Azure Data Engineer,Talent Toppers LLP,Azure Data Engineer,Full time,"Bengaluru / Bangalore, Gurgaon / Gurugram",3-8 Years
+31,Data Engineer,"BI Engineer I, Data Analytics, Global Accounts Receivable, Data Analytics (GARDA)",Amazon Music,"t-test,data pipeline design,r,co-relation analysis",Full time,India,2-4 Years
+32,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+33,Data Engineer,Celonis Data Engineer,Tata Group,"SQL Data Warehouse,Peoplesoft,Oracle",Full time,"Chennai, India",4-5 Years
+34,Data Engineer,Lead Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Noida, India",8-10 Years
+35,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+36,Data Engineer,Data Engineer,Ingram Micro,"Flink,Java,Kinesis,Kafka,Python,Sql",Full time,"Chennai, India",7-9 Years
+37,Data Engineer,Senior Manager _ Cyber Security _ Data Engineer _ Pune,Vodafone,"data scientists,Data Processing,analytical tools",Full time,Pune,11-15 Years
+38,Data Engineer,Senior Data Engineer (WFH),Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Ahmedabad, India",8-10 Years
+39,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+40,Data Engineer,Sr. Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Noida, India",8-10 Years
+41,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+42,Data Engineer,Principal Consultant - Big Data Engineer,Genpact,"Java/Spring,AWS,Sql,Node.js,RESTful",Full time,Bengaluru / Bangalore,0-2 Years
+43,Data Engineer,Data Engineer - BigQuery,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Kolkata, India",8-10 Years
+44,Data Engineer,Principal Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Kolkata, India",8-10 Years
+45,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+46,Data Engineer,Sr. Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Delhi, India",8-10 Years
+47,Data Engineer,Principal Data Engineer,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Ghaziabad, India",0-8 Years
+48,Data Engineer,Principal Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Pune, India",8-10 Years
+49,Data Engineer,Generative AI Data Engineer,Concentrix,"Airflow,Pgvector,Pinecone,Word2vec",Full time,"Bengaluru / Bangalore, India",7-10 Years
+50,Data Engineer,Lead/Principal Engineer - Data Science,Salesforce,"Statistics,Bayesian Methods,Generative Models",Full time,"Bengaluru / Bangalore, India",8-10 Years
+51,Data Engineer,Data Engineer (Bigdata + Devops),Visa,"CI/CD,Unix,Hive,Hadoop,Docker,Vulnerability Management",Full time,"Bengaluru / Bangalore, India",2-3 Years
+52,Data Engineer,Data Warehousing L1 OPS Engineer,Dish TV Network,"Sql,Controlm,python,aws,Etl",Full time,"Hyderabad / Secunderabad, Telangana",2-5 Years
+53,Data Engineer,Data Engineer - Bigdata + Java/Scala,Visa,,Full time,"Bengaluru / Bangalore, India",Fresher
+54,Data Engineer,Expert Data Engineer,Swiss Re,"Hive,Javascript,Hadoop,CSS,Pyspark",Full time,"Hyderabad / Secunderabad, Telangana, India",10-12 Years
+55,Data Engineer,Senior SRE Engineer - Data Platforms,S&P Global,"Vmc,VRO,virtualization,PowerShell,Microsoft Sql Server",Full time,"Gurgaon / Gurugram, India",5-7 Years
+56,Data Engineer,Principal Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Mumbai, India",8-10 Years
+57,Data Engineer,Data Engineer (WFH),Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Chennai, India",8-10 Years
+58,Data Engineer,Senior Data Engineer - Data Analytics Competence GECIA,Atlas Copco,"Ac,Tibco Data Virtualisation,Sql,Power Bi",Full time,"Pune, India",2-3 Years
+59,Data Engineer,Data Engineer - BigQuery,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Kolkata, India",8-10 Years
+60,Data Engineer,Data Engineer (WFH),Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Bengaluru / Bangalore, India",8-10 Years
+61,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+62,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+63,Data Engineer,Lead Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Noida, India",8-10 Years
+64,Data Engineer,Sr. Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Noida, India",8-10 Years
+65,Data Engineer,"BI Engineer I, Data Analytics, Global Accounts Receivable, Data Analytics (GARDA)",Amazon Music,"t-test,data pipeline design,r,co-relation analysis",Full time,India,2-4 Years
+66,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+67,Data Engineer,Senior Data Engineer (WFH),Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Delhi, India",8-10 Years
+68,Data Engineer,Principal Data Engineer,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Noida, India",0-8 Years
+69,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+70,Data Engineer,Senior Data Engineer,Kyndryl,"K8S,Microservices architecture,Java,Design Patterns",Full time,"Bengaluru / Bangalore, India",3-5 Years
+71,Data Engineer,Principal Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Kolkata, India",8-10 Years
+72,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+73,Data Engineer,Senior Data Engineer,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Ghaziabad, India",8-10 Years
+74,Data Engineer,Principal Consultant - Big Data Engineer,Genpact,"Java/Spring,AWS,Sql,Node.js,RESTful",Full time,Bengaluru / Bangalore,0-2 Years
+75,Data Engineer,Celonis Data Engineer,Tata Group,"SQL Data Warehouse,Peoplesoft,Oracle",Full time,"Chennai, India",4-5 Years
+76,Data Engineer,Senior Manager _ Cyber Security _ Data Engineer _ Pune,Vodafone,"data scientists,Data Processing,analytical tools",Full time,Pune,11-15 Years
+77,Data Engineer,Data Engineer,Ingram Micro,"Flink,Java,Kinesis,Kafka,Python,Sql",Full time,"Chennai, India",7-9 Years
+78,Data Engineer,Celonis Data Engineer,Tata Group,"SQL Data Warehouse,Peoplesoft,Oracle",Full time,"Chennai, India",4-5 Years
+79,Data Engineer,Senior Data Engineer (WFH),Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Ahmedabad, India",8-10 Years
+80,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+81,Data Engineer,Lead Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Pune, India",8-10 Years
+82,Data Engineer,Senior Data Engineer,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Delhi, India",8-10 Years
+83,Data Engineer,Senior Data Engineer,Ingram Micro,"Flink,Java,Kinesis,Kafka,Python,Sql",Full time,"Chennai, India",7-9 Years
+84,Data Engineer,Principal Consultant - Big Data Engineer,Genpact,"Java/Spring,AWS,Sql,Node.js,RESTful",Full time,Bengaluru / Bangalore,0-2 Years
+85,Data Engineer,Principal Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Kolkata, India",8-10 Years
+86,Data Engineer,"BI Engineer I, Data Analytics, Global Accounts Receivable, Data Analytics (GARDA)",Amazon Music,"t-test,data pipeline design,r,co-relation analysis",Full time,India,2-4 Years
+87,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+88,Data Engineer,Principal Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Mumbai, India",8-10 Years
+89,Data Engineer,Principal Data Engineer,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Coimbatore, India",0-8 Years
+90,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+91,Data Engineer,Senior SRE Engineer - Data Platforms,S&P Global,"Vmc,VRO,virtualization,Microsoft Sql Server",Full time,"Noida, India",5-7 Years
+92,Data Engineer,Senior Data Engineer,Coforge,"Big Query,Pyspark,Gcp,Scala,Spark",Full time,"Hyderabad / Secunderabad, Telangana, India",6-10 Years
+93,Data Engineer,"Data Engineer II, Amazon Pay",Amazon Music,"non-relational databases,column-family databases",Full time,India,3-5 Years
+94,Data Engineer,GCP DATA ENGINEER | 6 TO 12 YEARS | PAN INDIA,Capgemini,"GCS,composer,Gcp,Sql,BigQuery,Java",Full time,"Kolkata, India",2-4 Years
+95,Data Engineer,"Staff Data Engineer, Visa Consulting and Analytics",Visa,"Data Processing,CI/CD,Bi Tools,Machine Learning",Full time,"Bengaluru / Bangalore, India",8-10 Years
+96,Data Engineer,Sr. Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Noida, India",8-10 Years
+97,Data Engineer,Principal Consultant - Google Cloud Platform (GCP) Data Engineer,Genpact,"dataprep,data engineering,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+98,Data Engineer,Lead Data Engineer - WFH,Uplers,"Database Design Principle,ClickHouse,snowflake",Full time,"Noida, India",8-10 Years
+99,Data Engineer,Senior Data Engineer,Kyndryl,"K8S,Microservices architecture,Java,Design Patterns",Full time,"Bengaluru / Bangalore, India",3-5 Years
+100,Data Engineer,"Data Engineer I, Amazon Pay",Amazon Music,"Warehousing,ETL pipelines,query language",Full time,India,1-3 Years
+101,Data Analyst,Data Quality Analyst,Synechron Technologies Private Limited,"Data Quality Analyst,Data Quality,Data Management",Full time,"Delhi, Kolkata",5-7 Years
+102,Data Analyst,Data Quality Analyst,Synechron Technologies Private Limited,"Data Quality Analyst,Data Quality,Data Management",Full time,"Bengaluru / Bangalore, Pune",5-7 Years
+103,Data Analyst,Data Analyst,S&P Global,"MS-office,analytical,secondary research sources",Full time,"Ahmedabad, India",0-2 Years
+104,Data Analyst,Data Mining Analyst,Make Visions Outsourcing Private Limited,Data Mining,Full time,Ahmedabad,1-5 Years
+105,Data Analyst,Data Analyst Internship an Pune,Maxgen Technologies Private Limited,"Internship,Live Projects,Academic Projects",Full time,"Pune, Sangli",Fresher
+106,Data Analyst,Data Analyst | Business Analyst | Fresher IT Job - Fresher Can Apply,Structured Learning Assistance Consultants India Private Limited,"Data Analyst,Reporting Analyst,Mis Executive",Full time,"Delhi, Noida",0-5 Years
+107,Data Analyst,EDI (Electronic Data Interchange) Analyst,Tata Group,"EDI Business Analyst,EDI services,Electronic DataInterchange",Full time,"Pune, India",0-2 Years
+108,Data Analyst,Data Analyst required in Canada,Company name confidential,"Data Analyst,MIS Analyst,Reporting Analyst","International, Full time",Canada,3-10 Years
+109,Data Analyst,"Data Domain Architect Analyst - Data Annotation, Finance",Chase Bank,"Data Analysis,f-score,PRECISION,entity disambiguation",Full time,"Bengaluru / Bangalore, India",2-5 Years
+110,Data Analyst,"Senior Consultant Business Analyst, Reference Data Services",Genpact,"Business Analyst,Investment Bank Domain",Full time,Mumbai,0-2 Years
+111,Data Analyst,Data Analyst Required,Roundworld Immigration Private Limited,"Data Analyst,Reporting Analyst,MIS Analyst","International, Full time",Canada,2-7 Years
+112,Data Analyst,Data Mining Analyst,Make Visions Outsourcing Private Limited,Data Mining Analyst,Full time,Ahmedabad,0-1 Years
+113,Data Analyst,"Big data, Azure Synapse Senior Analyst Programmer",Tata Group,,Full time,"Chennai, India",Fresher
+114,Data Analyst,"Data Domain Architect Analyst - Data Annotation, Finance",Chase Bank,"Data Analysis,Data Research,f-score,PRECISION",Full time,"Bengaluru / Bangalore, India",2-5 Years
+115,Data Analyst,"Data Domain Architect Analyst - Data Annotation, Finance",Chase Bank,"Data Analysis,f-score,PRECISION,entity disambiguation",Full time,"Bengaluru / Bangalore, India",2-5 Years
+116,Data Analyst,Apprentice- Data Analyst,Macquarie Group,"Ms Office,Ms Excel,Data Management",Full time,"Gurgaon / Gurugram, India",0-2 Years
+117,Data Analyst,Data Analyst,ICE,"Distilling Information,Problem Solving,Communication",Full time,"Hyderabad / Secunderabad, Telangana, India",3-5 Years
+118,Data Analyst,Data Analyst,24-7intouch,"Data Analysis,G-Suite,Business Operations",Full time,"Hyderabad / Secunderabad, Telangana, India",3-5 Years
+119,Data Analyst,Business Consultant - Data Analyst - Sales,Blue Yonder,"Pandas,Numpy",Full time,"Bengaluru / Bangalore, India",3-5 Years
+120,Data Analyst,Data Analyst- SAP VC,Danfoss,"Sd,Teamcenter,LO-VC,Kanban,CRM",Full time,"Chennai, India",0-2 Years
+121,Data Analyst,Data Analyst,Amazon Music,"R,Sql,Microsoft Excel,Python",Full time,India,1-3 Years
+122,Data Analyst,Assistant Manager / Manager - Business Data Analyst,Macquarie Group,"Analytical Skills,communication,Written Skills",Full time,"Gurgaon / Gurugram, India",3-5 Years
+123,Data Analyst,"Data Domain Architect Analyst - Data Annotation, Finance",Chase Bank,"Data Analysis,Data Research,f-score,PRECISION",Full time,"Bengaluru / Bangalore, India",2-5 Years
+124,Data Analyst,Data Analyst,S&P Global,"MS-office,analytical,secondary research sources",Full time,"Ahmedabad, India",0-2 Years
+125,Data Analyst,Sr Data Informatics Analyst,servicenow,"open source libraries,Sql,Tableau,Data Visualization",Full time,"Hyderabad / Secunderabad, Telangana, India",3-5 Years
+126,Data Analyst,Lead Data Analyst,Games24x7,"Data Analysis,R,probability,segmentation techniques",Full time,"Bengaluru / Bangalore, India",5-7 Years
+127,Data Analyst,Consultant Data Analyst / Data Steward,Genpact,"cloud environments,English,MDM,Sql",Full time,"Hyderabad / Secunderabad, Telangana",0-2 Years
+128,Data Analyst,"Data Domain Architect Analyst - Data Annotation, Finance",Chase Bank,"Data Analysis,f-score,PRECISION,entity disambiguation",Full time,"Bengaluru / Bangalore, India",2-5 Years
+129,Data Analyst,Data Analyst,S&P Global,"MS-office,Lean,R,outreach,Relationship Building",Full time,"Ahmedabad, India",0-2 Years
+130,Data Analyst,Functional & Data Analyst,Deutsche Bank,"Microsoft Applications,Safe,Problem-solving",Full time,"Pune, India",6-8 Years
+131,Data Analyst,Financial Data Analyst,Moodys Analytics,"accounting,Financial Statements,financial data analysis",Full time,"Bengaluru / Bangalore, India",0-2 Years
+132,Data Analyst,Healthcare Research & Data Analyst,Clarivate,"Powerpoint,data interpretation,Microsoft Word",Full time,"Bengaluru / Bangalore, India",2-4 Years
+133,Data Analyst,Data Analyst - Data Operations,S&P Global,,Full time,"Gurgaon / Gurugram, India",Fresher
+134,Data Analyst,Data Analyst,Airbus pioneers,"Statistics,Structures,Skywise,Systems",Full time,"Bengaluru / Bangalore, India",0-2 Years
+135,Data Analyst,Apprentice- Data Analyst,Macquarie Group,"Ms Office,Ms Excel,Data Management",Full time,"Gurgaon / Gurugram, India",0-2 Years
+136,Data Analyst,Data Solution Analyst,Barclays,"Salesforce,Business Objects,Power Bi,SAS",Full time,Pune,0-2 Years
+137,Data Analyst,Business Consultant - Data Analyst - Sales,Blue Yonder,"Pandas,Numpy",Full time,"Hyderabad / Secunderabad, Telangana, India",3-5 Years
+138,Data Analyst,Lead Consultant Data Analyst / Data Steward,Genpact,"cloud environments,English,MDM,Sql",Full time,"Hyderabad / Secunderabad, Telangana",0-2 Years
+139,Data Analyst,Data Analyst - Prefer to work on AI,Resources Valley,"Data analsyt,Machine Learning,Sql",Full time,Jaipur,2-5 Years
+140,Data Analyst,Data Analyst | Pune,WovV Technologies (Division of Techno compass consulting Pvt Ltd),"Python,Sql,Tableau,Power Bi,Web Applications",Full time,Pune,2-7 Years
+141,Data Analyst,Data Analyst,Happy Square Outsourcing Services Private Limited,"Sql,Xml,Javascript,Excel",Full time,Mumbai,1-4 Years
+142,Data Analyst,DATA ANALYST INTERNSHIP AT PUNE,Maxgen Technologies Private Limited,"Internship,Live Projects,Academic Projects",Full time,"Pune, Amravati",Fresher
+143,Data Analyst,Senior Data Analyst Required in Abroad,Donivia Overseas Private Limited,"Data Analysis,Data Management,Data Mining",Full time,"Delhi, Gurgaon / Gurugram",2-12 Years
+144,Data Analyst,Data Analyst WFM,Acknowledger First Private Limited,Any graduate,Full time,Bengaluru / Bangalore,Fresher
+145,Data Analyst,DATA ANALYST INTERNSHIP AT PUNE,Maxgen Technologies Private Limited,"Internship,Live Projects,Academic Projects",Full time,"Pune, Jalgaon",Fresher
+146,Data Analyst,Senior Data Analyst,Ubisoft,"R,Tableau,Sql,Python",Full time,"Pune, India",4-6 Years
+147,Data Analyst,Senior/Lead Data Analyst,Sprinklr,"Revenue Analytics,Marketing Analytics,media mix modeling",Full time,"Bengaluru / Bangalore, India",4-7 Years
+148,Data Analyst,Consulting: SA&MA: AI & Data- Incident & Release Management Analyst (Senior Consultant),Deloitte,"technical quality assurance protocols,Root Cause Analysis",Full time,"Hyderabad / Secunderabad, Telangana, India",1-3 Years
+149,Data Analyst,Senior Data Analyst (Asst. Manager)- Global Sourcing & Procurement,AXA,"Sharepoint,Power Automation,Salesforce",Full time,Gurgaon / Gurugram,5-7 Years
+150,Data Analyst,Data Transformation Analyst I,S&P Global,"Data Analysis,data interpretation,Data Validation",Full time,"Gurgaon / Gurugram, India",3-5 Years
+151,Data Analyst,"Data & Reporting - Analyst (SQL, Alteryx, Tableau, Snowflake)",Chase Bank,"snowflake,Sql,AWS,Agile Methodologies",Full time,"Bengaluru / Bangalore, India",2-4 Years
+152,Data Analyst,Reference Data Operator (Senior Operations Analyst),Deutsche Bank,"Market Regulatory,Bloomberg,Derivative",Full time,"Pune, India",5-7 Years
+153,Data Analyst,DATA ANALYST INTERNSHIP AT PUNE,Maxgen Technologies Private Limited,"Internship,Live Projects,Academic Projects",Full time,"Pune, Jalgaon",Fresher
+154,Data Analyst,Software Engineer,Fuji Academy private limited,"full stack developer,Ai,Data Analyst,Android & iPhone development","International, Full time",Japan,1-5 Years
+155,Data Analyst,Assistant Manager || Data Analyst,Lenskart,"R,Analytics,communication,Problem-solving",Full time,India,2-5 Years
+156,Data Analyst,"Principal Consultant, Data Analyst",Genpact,"Microsoft Excel,Databases,Sql,Powerbi",Full time,Bengaluru / Bangalore,0-2 Years
+157,Data Analyst,Senior Analyst - Clinical Data Management,Stryker,"clinical trial design,clinical research,regulatory guidelines",Full time,"Bengaluru / Bangalore, India",6-12 Years
+158,Data Analyst,AI Developer - Contract Job,Saaragh Solutions Private Limited,"AI developer,Data Analyst,Data Scientist","Contract Job, Part time","Bengaluru / Bangalore, Mumbai",2-7 Years
+159,Data Analyst,Data Analyst,Ericsson,"r,Machine Learning,python,Tableau,Sql",Full time,"Patiala, India",0-2 Years
+160,Data Analyst,"Assistant Manager, Data Analyst, Procurement",Hindustan Unilever,"Project Management,Communication,Supply Chain Business Understanding",Full time,"Bengaluru / Bangalore, India",5-7 Years
+161,Data Analyst,Senior Financial Data Analyst,Moodys Analytics,"Word,FRM,Powerpoint,Financial Statement Analysis",Full time,"Bengaluru / Bangalore, India",1-2 Years
+162,Data Analyst,Senior Reference Data Analyst,ICE,"Pgdm,Mba,M. Com,MFM,Sql,Python",Full time,"Hyderabad / Secunderabad, Telangana, India",3-5 Years
+163,Data Analyst,Client Reference Data Analyst,Barclays,"Reference Data Services,Entity Account Opening & Closure",Full time,Pune,0-2 Years
+164,Data Analyst,"Data Analyst II, Enterprise Data Quality",Bristol Myers Squibb,"Data Verification,Informatica Idq,Data Profiling",Full time,"Hyderabad / Secunderabad, Telangana, India",2-4 Years
+165,Data Analyst,Data Analyst,Danfoss,"Problem Solving,Analytical Skills,Decision Tree Learning",Full time,"Chennai, India",0-2 Years
+166,Data Analyst,Supply Chain Data Analyst,Emerson,"data interpretation,Supplier Management",Full time,"Pune, India",0-2 Years
+167,Data Analyst,Data Analyst,DBS Bank,"Vba,SAS,Tableau,Qlikview,Sql,Python",Full time,"Mumbai, India",8-10 Years
+168,Data Analyst,Business Analyst : Data Analytics,Genpact,"Ngnx,Business Intelligence,Sql,Angular Cli",Full time,Noida,0-2 Years
+169,Data Analyst,Senior Data Analyst,Emerson,"Security,Rpd,Dashboards,Performance Tuning",Full time,"Pune, India",3-5 Years
+170,Data Analyst,Senior/Lead Data Analyst,Sprinklr,"Revenue Analytics,Marketing Analytics,media mix modeling",Full time,"Bengaluru / Bangalore, India",4-7 Years
+171,Data Analyst,Data Analyst,Ericsson,"r,Machine Learning,python,Tableau,Sql",Full time,"Patiala, India",0-2 Years
+172,Data Analyst,IWMS Data Analyst,Deutsche Bank,"CI-CD,Github,Bit Bucket,Gcp,Terraform",Full time,"Pune, India",10-12 Years
+173,Data Analyst,Consultant Data Analyst Python,Genpact,"R,GenAI,Python,Sql,Excel,Vba,Spotfire",Full time,Noida,0-2 Years
+174,Data Analyst,Data Analyst,Ericsson,"Business Objects,Vba,Tableau,Python",Full time,"Noida, India",1-10 Years
+175,Data Analyst,Associate- Data Analyst,Macquarie Group,"Metals,refining markets,refinery operations",Full time,"Gurgaon / Gurugram, India",1-2 Years
+176,Data Analyst,Data Analyst II (SQL Query Writing),Syneos Health,"Digital Marketing,Data Studio,Powerpoint",Full time,"Salem, India",0-2 Years
+177,Data Analyst,Senior Client Reference Data Analyst,Barclays,"Data Analysis,Data Remediation,Corporate Investment",Full time,Pune,0-2 Years
+178,Data Analyst,Senior Data Analyst,Emerson,"Security,Rpd,Dashboards,Performance Tuning",Full time,"Chandigarh, India",3-5 Years
+179,Data Analyst,Data Analyst,Ericsson,"Business Objects,Vba,Tableau,Python",Full time,"Noida, India",1-10 Years
+180,Data Analyst,Risk Advisory Data Analytics Analyst,KPMG,"Data Handling,Tabular,Advance Excel,Python",Full time,Bengaluru / Bangalore,0-2 Years
+181,Data Analyst,Supply Chain Data Analyst,Emerson,"data interpretation,Supplier Management",Full time,"Pune, India",0-2 Years
+182,Data Analyst,Master Data Analyst,Carrier Global,"Accounts Payable,Financial Statements,Financial Reporting",Full time,"Hyderabad / Secunderabad, Telangana, India",3-5 Years
+183,Data Analyst,Business Data Analyst (Greater Noida),Uplers,"Project management,Data Analysis,Statistics",Full time,"Nagar, India",5-7 Years
+184,Data Analyst,Data Analyst Internship an Pune,Maxgen Technologies Private Limited,"Internship,Live Projects,Academic Projects",Full time,"Pune, Jalgaon",Fresher
+185,Data Analyst,Business Data Analyst (New Delhi),Uplers,"Project management,Data Analysis,Statistics",Full time,"Delhi, India",5-7 Years
+186,Data Analyst,Senior Data Analyst,Epsilon India,"Data Analysis,paid search,organic search",Full time,"Bengaluru / Bangalore, India",4-6 Years
+187,Data Analyst,Data Quality Analyst,Synechron Technologies Private Limited,"Data Analyst,Data Quality,Database",Full time,"Mumbai, Pune",5-8 Years
+188,Data Analyst,Data Quality Analyst,Synechron Technologies Private Limited,"Data Management,Data Governance,Sql",Full time,"Bengaluru / Bangalore, Chennai",5-8 Years
+189,Data Analyst,Data Analyst Internship an Pune,Maxgen Technologies Private Limited,"Internship,Live Projects,Academic Projects",Full time,"Pune, Sangli",Fresher
+190,Data Analyst,Data Analyst Internship At Pune,Maxgen Technologies Private Limited,"Internship,Live Projects,Academic Projects",Full time,"Pune, Amravati",Fresher
+191,Data Analyst,Business Data Analyst (Ghaziabad),Uplers,"Project management,Data Analysis,Statistics",Full time,"Ghaziabad, India",5-7 Years
+192,Data Analyst,Senior Data Analyst (Operations),Emerson,"SSDT tools,Performance Tuning and Optimization (PTO)",Full time,"Chandigarh, India",2-5 Years
+193,Data Analyst,Global Compliance Systems & Data Analyst,Eastman,"SAP Report Shipping,Word,SAP Product Compliance",Full time,"Hyderabad / Secunderabad, Telangana, India",2-5 Years
+194,Data Analyst,Senior Data Analyst,A.P. Moller - Maersk,"Salesforce,salesforce email campaigns,Data Analytics",Full time,"Bengaluru / Bangalore, India",5-7 Years
+195,Data Analyst,Data Pull Analyst - Tax & Treasury Operations & Risk Management (Contractor),Oracle,"Data reconciliations,Problem Solving,Microsoft Powerpoint",Full time,India,4-5 Years
+196,Data Analyst,Data Pull Analyst - Tax & Treasury Operations & Risk Management (Contractor),Oracle,"Data reconciliations,Problem Solving,Microsoft Powerpoint",Full time,India,4-5 Years
+197,Data Analyst,Senior Data Analyst,Epsilon India,"Data Analysis,paid search,organic search",Full time,"Bengaluru / Bangalore, India",4-6 Years
+198,Data Analyst,Senior Quality and Data Governance Analyst I,S&P Global,"Data Analyst,Control-M,Unix Shell Scripting",Full time,"Gurgaon / Gurugram, India",4-6 Years
+199,Data Analyst,Business Data Analyst (New Delhi),Uplers,"Project management,Data Analysis,Statistics",Full time,"Delhi, India",5-7 Years
+200,Data Analyst,Business Data Analyst (Greater Noida),Uplers,"Project management,Data Analysis,Statistics",Full time,"Nagar, India",5-7 Years
+201,Data Architect,Data Architect,Synechron Technologies Private Limited,"Data Architect,Solution Architecture,Python",Full time,"Delhi, Kolkata",10-13 Years
+202,Data Architect,Data Architect,Synechron Technologies Private Limited,"Data Architect,Solution Architecture,Python",Full time,"Bengaluru / Bangalore, Pune",10-13 Years
+203,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Hyderabad / Secunderabad, Telangana, India",8-10 Years
+204,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Mumbai, India",8-10 Years
+205,Data Architect,"Software Engineering Principal Architect, Data Cloud",Salesforce,"Java,Javascript,Hadoop,Agile,Scrum",Full time,"Hyderabad / Secunderabad, Telangana, India",18-20 Years
+206,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Jaipur, India",8-10 Years
+207,Data Architect,Senior Principal Consultant - Databricks Platform + Data Architect,Genpact,"Security,dbt,rbac,delta lake,oidc,data processing systems",Full time,Jaipur,0-2 Years
+208,Data Architect,Data architect,Company name confidential,Working experience in Data migration and conversions. Working Experience on SQL server and SQL server Scripts,"Contract Job, Part time",Other India,7-10 Years
+209,Data Architect,Senior Principal Consultant - Databricks Data Architect,Genpact,"Databricks AI/ML,mlFlow,rbac,AWS sagemaker",Full time,Bengaluru / Bangalore,10-12 Years
+210,Data Architect,"Data Domain Architect Associate - Data Annotation, Finance",Chase Bank,"Data Analysis,Data Research,f-score,PRECISION",Full time,"Bengaluru / Bangalore, India",5-7 Years
+211,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Gurgaon / Gurugram, India",8-10 Years
+212,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Pune, India",8-10 Years
+213,Data Architect,Solutions Architect : Data & AI,Databricks,"R,Analytics,data engineering,Java,Data Science",Full time,"Mumbai, India",6-8 Years
+214,Data Architect,"Software Engineering Principal Architect, Data Cloud",Salesforce,"Java,Javascript,Hadoop,Agile,Scrum",Full time,"Bengaluru / Bangalore, India",18-20 Years
+215,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Bengaluru / Bangalore, India",8-10 Years
+216,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Hyderabad / Secunderabad, Telangana, India",8-10 Years
+217,Data Architect,Solutions Architect : Data & AI,Databricks,"R,Analytics,data engineering,Java,Data Science",Full time,"Mumbai, India",6-8 Years
+218,Data Architect,Senior Principal Consultant - Databricks Data Architect,Genpact,"Databricks AI/ML,mlFlow,rbac,AWS sagemaker",Full time,Bengaluru / Bangalore,10-12 Years
+219,Data Architect,"Software Engineering Principal Architect, Data Cloud",Salesforce,"Java,Javascript,Hadoop,Agile,Scrum",Full time,"Bengaluru / Bangalore, India",18-20 Years
+220,Data Architect,Senior Principal Consultant - Databricks Platform + Data Architect,Genpact,"Security,dbt,rbac,delta lake,oidc,data processing systems",Full time,Jaipur,0-2 Years
+221,Data Architect,Data Cloud Senior Success Architect,Salesforce,"Big Query,Tealium,Ai,Segment,Amperity",Full time,"Jaipur, India",8-10 Years
+222,Data Architect,Data Architect,Deutsche Bank,"Architecture,Safe,Document Store systems",Full time,"Pune, India",0-2 Years
+223,Data Architect,Database Architect,Ezinformatics Solutions Private Limited,"DB Architect,Architecture,Database Architect",Full time,Kolkata,8-13 Years
+224,Data Architect,Senior Principal Consultant - Google Cloud Platform (GCP) Data Architect,Genpact,"etl processes,Data Architecture,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+225,Data Architect,Senior Principal Consultant- Google Cloud Platform (GCP) Data Architect,Genpact,"etl processes,Data Architecture,Data Integration",Full time,Bengaluru / Bangalore,0-2 Years
+226,Data Architect,Senior Data Architect | Pune,WovV Technologies (Division of Techno compass consulting Pvt Ltd),"Ms Azure,Gcp,AWS,Data Warehouse","Work From Home, Full time",Pune,5-8 Years
+227,Data Architect,Senior Data / Solution Architect,Deutsche Bank,"Enterprise Data Modelling,Safe,Togaf,Data Architecture",Full time,"Pune, India",0-2 Years
+228,Data Architect,Senior Data Catalog Architect,Swiss Re,"data catalog capability,Collibra implementations",Full time,"Hyderabad / Secunderabad, Telangana, India",0-2 Years
+229,Data Architect,Technology Specialist (Solution / Data Architect),Deutsche Bank,"Architecture,powerdesigner,Safe,conceptual",Full time,"Pune, India",0-2 Years
+230,Data Architect,Data Architect,3Pillar Global,"snowflake,Glue,Athena,Managed Kafka ElasticSearch",Full time,"Indi, India",13-18 Years
+231,Data Architect,AWS Data Architect,Tata Group,"Data ingestion,scalable,processing pipeline",Full time,"Bengaluru / Bangalore, India",8-15 Years
+232,Data Architect,Associate Director â Big Data Architect - Engineering,S&P Global,"confluent,mllib,python,Machine Learning",Full time,"Mumbai, India",10-12 Years
+233,Data Architect,Data Architect,3Pillar Global,"snowflake,Glue,Athena,Managed Kafka ElasticSearch",Full time,"Indi, India",13-18 Years
+234,Data Architect,Associate Technical Architect - Data Engineering,dentsu,"Data Unification Strategies,Data Workflow Platforms",Full time,"Pune, India",5-7 Years
+235,Data Architect,Data Science Architect,Tata Group,"Prompt Engineering Techniques,Zero/Few Shots",Full time,"Bengaluru / Bangalore, India",8-17 Years
+236,Data Architect,Azure Data Architect,Tata Group,"Data Lake-ADLS,Lake formation,Azure Synapse",Full time,"Bengaluru / Bangalore, India",4-8 Years
+237,Data Architect,Data Architect,Tata Group,"Data Migration Strategy,Data Migration Plan",Full time,"Bengaluru / Bangalore, India",0-2 Years
+238,Data Architect,Data Architect,Oracle,"data models,project management,communication",Full time,"Bengaluru / Bangalore, India",0-2 Years
+239,Data Architect,Azure Data Architect,Tata Group,"data bricks,power apps,event hubs,sql dwh",Full time,"Bengaluru / Bangalore, India",2-3 Years
+240,Data Architect,Senior Data Catalog Architect,Swiss Re,"data catalog capability,Collibra implementations",Full time,"Hyderabad / Secunderabad, Telangana, India",0-2 Years
+241,Data Architect,Technology Specialist (Solution / Data Architect),Deutsche Bank,"Architecture,powerdesigner,Safe,conceptual",Full time,"Pune, India",0-2 Years
+242,Data Architect,Delivery Solutions Architect - Data & AI,Databricks,"Gcp,Scala,Databricks,Azure,Python",Full time,"Mumbai, India",8-10 Years
+243,Data Architect,Data Architect,Supro Info Solutions Private Limited,"Data Architects,Dimensional Model,data vault",Full time,"Bengaluru / Bangalore, Chennai",13-19 Years
+244,Data Architect,Data Modeler OR Data Architect,Supro Info Solutions Private Limited,"EA Sparx,TM Forum Data Model,snowflake",Full time,"Bengaluru / Bangalore, Pune",10-17 Years
+245,Data Architect,Sr Data Engineer / Architect - Snowflakes - Chennai / Bangalore / Hyderabad / 6+ years,2COMS Consulting Private Limited,Sr Data Engineer / Architect - Snowflakes - Chennai / Bangalore / Hyderabad / 6+ years,Full time,Bengaluru / Bangalore,7-12 Years
+246,Data Architect,Data Architect AWS(Presales ),Rackspace Technology,"ADLS Gen2,Synapse,Purview,Fabric,Data lakehouse",Full time,"Remote, India",10-20 Years
+247,Data Architect,Solutions Architect : Data / AI,Databricks,"Architecture,Design,R,data engineering",Full time,"Bengaluru / Bangalore, India",6-8 Years
+248,Data Architect,Delivery Solutions Architect - Data & AI,Databricks,"Gcp,Scala,Databricks,Azure,Python",Full time,"Delhi, India",8-10 Years
+249,Data Architect,Data Science Architect- I,Bold,,Full time,"Noida, India",Fresher
+250,Data Architect,Delivery Solutions Architect - Data & AI,Databricks,"Gcp,Scala,Databricks,Azure,Python",Full time,"Bengaluru / Bangalore, India",8-10 Years
+251,Data Architect,Data Architect – Hybrid Work Model,Nam Info Private Limited,"SQL Data Warehouse,snowflake,Hadoop",Full time,Bengaluru / Bangalore,7-15 Years
+252,Data Architect,Data Architect Engineer with Kafka,Macropace Technologies,"Data transform,metadata,Data Engineer",Full time,"Cochin / Kochi / Ernakulam, Thiruvananthapuram / Trivandrum",8-18 Years
+253,Data Architect,Data Modeler,T & M Services Consulting Private Limited,"Datamodeling,Data Modeler,Data Architect",Full time,Bengaluru / Bangalore,4-10 Years
+254,Data Architect,Data Architect,Kaizen SRA Technologies Private Limited,"Kafka,Python,Sql",Full time,Cochin / Kochi / Ernakulam,5-10 Years
+255,Data Architect,Data Architect,Macropace Technologies,Data Architect,Full time,"Cochin / Kochi / Ernakulam, Thiruvananthapuram / Trivandrum",7-17 Years
+256,Data Architect,Senior Solution Azure Data Architect,HR Addons,"Azure Synapse Analytics,Data Flows,Azure Data Warehouse",Full time,Bengaluru / Bangalore,10-15 Years
+257,Data Architect,Data Architect,Quess IT Staffing (Formerly known as Magna Infotech),"Data Platform Modelling,Data Architect,Azure",Full time,Bengaluru / Bangalore,5-10 Years
+258,Data Architect,Data Engineering / Data Architect,Quess IT Staffing (Formerly known as Magna Infotech),"Python,Azure,Sql,AWS,Databricks",Full time,Bengaluru / Bangalore,2-5 Years
+259,Data Architect,Data Architect,LTIMindtree Limited,Proven experience in forming Data warehouse / Data Lake for business analytics. Technologies like; HDFS,Full time,"Bengaluru / Bangalore, Pune",5-9 Years
+260,Data Architect,Azure Data Architect - Max 50 LPA,Rapsys Tech Solutions Private Limited,"ADLS,Data Architect,Azure Data Factory",Full time,Remote,10-17 Years
+261,Data Architect,Senior Principal Consultant - Data Architect,Genpact,"Data Modernization,Programming and Scripting",Full time,Pune,0-2 Years
+262,Data Architect,Data & Analytics Architect,Tata Group,"Data Analytics,Power Bi,Etl,Data Science",Full time,"Mumbai, India",0-2 Years
+263,Data Architect,Cloud Data Architect,Boston Consulting Group,"snowflake,Spark / Databricks,Security Protocols",Full time,India,10-12 Years
+264,Data Architect,Data Engineer - Architect,FIS,"API Integrations,PowerBI Reports,Synapse",Full time,"Chennai, India",12-15 Years
+265,Data Architect,Principal Consultant -Data Modeler cum Architect for Cloud Data Engineering,Genpact,"Architecture Design,data visualization tools",Full time,"Hyderabad / Secunderabad, Telangana",0-2 Years
+266,Data Architect,Senior Principal Consultant-Data Architect,Genpact,"Stored Procedures,AWS,SQL Server,Dynamo Db",Full time,"Gurugram, Gurgaon / Gurugram",0-2 Years
+267,Data Architect,Senior Principal Consultant - Data Architect,Genpact,"Programming and Scripting,Communication and Collaboration",Full time,Chennai,0-2 Years
+268,Data Architect,Senior Principal Consultant- Product Lead/ Data Architect,Genpact,"snowflake,Microstrategy,Databrick platform",Full time,Bengaluru / Bangalore,0-2 Years
+269,Data Architect,Data Integration Architect,ALSTOM India Limited,"Dell Boomi,Xml,Edi,Json,Rest Apis,Sql",Full time,"Bengaluru / Bangalore, India",3-10 Years
+270,Data Architect,Data Science - AI/ML with Big data Architect,Anlage Infotech India Private Limited,"Ai,Ml",Full time,Bengaluru / Bangalore,12-16 Years
+271,Data Architect,Snowflake Data Architect,Pricube Technologies Private Limited,Data Architect,Full time,"Hyderabad / Secunderabad, Telangana",5-8 Years
+272,Data Architect,Pyspark Architect Cloudera data platform,CareerPaths,"Data Analysis,Data Analysis,data quality analysis",Full time,Bengaluru / Bangalore,12-17 Years
+273,Data Architect,Senior Databricks Engineer / Databricks Technical Lead/ Data Architect,Tredence Analytics Solutions Private Limited,"Azure Stack,Databricks,AWS,Etl,Data Warehouse",Full time,"Bengaluru / Bangalore, Chennai",3-13 Years
+274,Data Architect,Solution Azure Data Architect,JS IT Tech Solutions,"Azure Synapse Analytics,Data Flows,Azure Data Warehouse",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",10-15 Years
+275,Data Architect,Data bricks Architect,Serendipity Corporate Services,"pysark,databricks,Sql",Full time,"Bengaluru / Bangalore, Chennai",7-15 Years
+276,Data Architect,Solution Azure Data Architect,JS IT Tech Solutions,"Azure Synapse Analytics,Data Flows,Azure Data Warehouse",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",10-15 Years
+277,Data Architect,GCP Data Architect,Aequor Information Technologies Priivate Limited,"GCP Data Architect with Bigquery,Data Flow",Full time,"Chennai, Kolkata",10-20 Years
+278,Data Architect,Data Architect/Modeler,Vaakruthi Software Solutions,"Data Lakes,CI/CD & Azure/AWS,ADLS,(largely Azure).",Full time,"Chennai, Hyderabad / Secunderabad, Telangana",5-8 Years
+279,Data Architect,Data Architect,Streetmark Info Solutions Private Limited,"LOGIC APPS,DATA BRICKS,Power Bi,Azure",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",12-22 Years
+280,Data Architect,Data Architect - ERP Migration to Azure Cloud,Abeer Services India Network,"Architecture,Data Strategy,Design,Security",Full time,"Hyderabad / Secunderabad, Telangana",15-25 Years
+281,Data Architect,Senior Databricks Engineer / Databricks Technical Lead/ Data Architect,Tredence Analytics Solutions Private Limited,"Azure Stack,Databricks,AWS,Etl,Data Warehouse",Full time,"Bengaluru / Bangalore, Chennai",3-13 Years
+282,Data Architect,"Data Architect,On-Premise,Cloud,Structure,Data Marts,DW,Data Factory,Pipeline,Lake,ODS,EDW,Process Improvement,Disaster Recovery Planning,BI , 8 - 15 years",Gem Software Solutions Limited,"On-Premise,Structure,data marts,Pipeline",Full time,"Chennai, Chidambaram",8-15 Years
+283,Data Architect,Senior Solution Azure Data Architect,JS IT Tech Solutions,"Azure Synapse Analytics,Data Flows,Azure Data Warehouse",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",10-15 Years
+284,Data Architect,AWS Data Engineer or Architect,Serendipity Corporate Services,"glue,aws,Lambda,Pyspark,python","Work From Home, Full time","Ahmedabad, Hyderabad / Secunderabad, Telangana",5-15 Years
+285,Data Architect,Data Modeler/ Architect,Anri FS Private Limited,"power designer,Data Modelling,Erwin,Etl",Full time,Other India,5-15 Years
+286,Data Architect,Solution Azure Data Architect,JS IT Tech Solutions,"Azure Synapse Analytics,Data Flows,Azure Data Warehouse",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",10-15 Years
+287,Data Architect,Architect for Data Center,Praxis Placement Consultancy,"Autocad,Navisworks,3D,Data Center",Full time,Mumbai,5-8 Years
+288,Data Architect,Data Architect - Healthcare domain,Rapid Talent Solutions,"Snow Flake,Healthcare,Health Care Services",Full time,Bengaluru / Bangalore,15-25 Years
+289,Data Architect,Data Science - AI/ML with Big data Architect,Anlage Infotech India Private Limited,"Ai,Ml",Full time,Bengaluru / Bangalore,12-16 Years
+290,Data Architect,Enterprise Data Architect,CareerPaths,"cd,dynamic data masking,Data Warehousing",Full time,Bengaluru / Bangalore,14-18 Years
+291,Data Architect,"Senior Manager, Data Architect",Genpact,"snowflake,data lineage,ETL workflows,Cloud",Full time,Bengaluru / Bangalore,0-2 Years
+292,Data Architect,Azure Data Integration Architect,Renovision Automation Services Private Limited,"Azure Data Architect,Architect,Architecture",Full time,"Bengaluru / Bangalore, Pune",9-19 Years
+293,Data Architect,Data Architect |Consulting |AWS |Pyspark| Bengaluru/Mumbai,Michael Page,"hudi,Dynamo,glue,iceberg,delta lake",Full time,"Bengaluru / Bangalore, India",12-14 Years
+294,Data Architect,Urgent requirement Data Science AI ML with Big data Architect Full Time Direct Hire,Company name confidential,"Data Science,Big Data,Cloud","Jobs for Women, Full time",Bengaluru / Bangalore,12-16 Years
+295,Data Architect,AWS Data Architect,Kyndryl,"snowflake,Dms,LakeFormation,API GW",Full time,"Bengaluru / Bangalore, India",7-10 Years
+296,Data Architect,Azure Data Architect,Kyndryl,"AzureData Platform,DataOps,Azure ADF",Full time,"Gurgaon / Gurugram, India",7-10 Years
+297,Data Architect,Data Architect,Tata Group,"Salesforce,snowflake,stakeholders,CRM",Full time,"Hyderabad / Secunderabad, Telangana, India",5-12 Years
+298,Data Architect,Snowflake Architect,Ltimindtree Limited,"snowflake,Data Warehouse,Etl,Data Architect",Full time,"Bengaluru / Bangalore, Pune",2-7 Years
+299,Data Architect,Data Architect (Data Architect II),Ecolab,"semantic modeling,massively parallel processing database platforms",Full time,"Bengaluru / Bangalore, India",4-13 Years
+300,Data Architect,DATA ARCHITECT | DATAWAREHOUSE | CLOUD COMPUTING,Michael Page,,Full time,India,Fresher
+301,Data Scientist,Data Scientist II (Detection + Deep Learning +Classical ML),HERE Technologies,"Tracking,scikit-learn,supervised learning",Full time,"Mumbai, India",2-4 Years
+302,Data Scientist,Data Scientist Manager,Mpowering HR Solutions,"R,customer analytics,Social Media,costomer serivice","Contract Job, Part time","Bengaluru / Bangalore, Pune",8-12 Years
+303,Data Scientist,Data Scientist,Company name confidential,"Machine Learning,Python",Full time,Bengaluru / Bangalore,1-6 Years
+304,Data Scientist,Lead Data Scientist,Epsilon India,"Ai,DL,attribution modeling,Classification",Full time,"Bengaluru / Bangalore, India",8-10 Years
+305,Data Scientist,Sr. D&T Data Scientist,General Mills,"composer,ML supervised algorithms,FMCG/CPG domain",Full time,"Mumbai, India",10-12 Years
+306,Data Scientist,Senior Data Scientist - Marketplace,Gojek,"Statistics,Ml,Data Science,Machine Learning",Full time,"Bengaluru / Bangalore, India",5-7 Years
+307,Data Scientist,"Sr Data Scientist (Heavy DL, Python, CV)",HERE Technologies,"analytic methods,Bayesian network analysis",Full time,"Mumbai, India",5-7 Years
+308,Data Scientist,Sr Data Scientist,Amazon Music,"Ai,Large Foundational Models,Unsupervised",Full time,India,6-8 Years
+309,Data Scientist,Principal Data Scientist,Lowe's India,"Aster,Teradata,Java,Rust,Machine Learning",Full time,"Bengaluru / Bangalore, India",3-8 Years
+310,Data Scientist,Senior Data Scientist - Generative AI,dentsu,"nVidia Picasso,Stanford CoreNLP,Cloud AI Platform",Full time,"Pune, India",5-8 Years
+311,Data Scientist,Senior Data Scientist Engineer,A.P. Moller - Maersk,"KubeFlow,Airflow,Scikit-Learn,Recommendation Systems",Full time,"Bengaluru / Bangalore, India",0-10 Years
+312,Data Scientist,Lead Data Scientist,Lowe's India,"Airflow,Trino,Java,Rust,Hadoop,Scala",Full time,"Bengaluru / Bangalore, India",2-6 Years
+313,Data Scientist,Principal Engineer Data Scientist REF17551N All Client Loc (Job Code : J47477),Sampoorna Consultants Private Limited,Manufacturing and Automation - General Experience,Full time,"Bengaluru / Bangalore, Chennai",13-15 Years
+314,Data Scientist,Data Scientist,D Square Consulting Services Private Limited,"Python,Sql","International, Full time",Other International,5-10 Years
+315,Data Scientist,Data Scientist,Sprinklr,"topic modeling,anomaly detection,R,Blending",Full time,"Gurgaon / Gurugram, India",0-2 Years
+316,Data Scientist,Enabling Areas - Data Scientist - Executive - DEC,Deloitte,"Sql,Statistical Modelling,Hive,Python,Mapreduce",Full time,"Bengaluru / Bangalore, India",0-2 Years
+317,Data Scientist,Data Scientist II (Detection + Deep Learning +Classical ML),HERE Technologies,"Tracking,scikit-learn,supervised learning",Full time,"Mumbai, India",2-4 Years
+318,Data Scientist,Lead Data Scientist,Freshworks,"Machine Learning,Nlp,Algorithms,Distributed Systems",Full time,"Bengaluru / Bangalore, India",0-2 Years
+319,Data Scientist,Lead Data Scientist - Mumbai - FMCG Giant,Michael Page,"Strategic mindset,Business,marketing effectiveness",Full time,"Mumbai, India",9-12 Years
+320,Data Scientist,Senior Data Scientist,Skyleaf Consultants LLP,"Data Scientist,Python,Data Visualization",Full time,Kolkata,7-9 Years
+321,Data Scientist,Data Scientist | Pune,WovV Technologies (Division of Techno compass consulting Pvt Ltd),"Cloud (Azure,AWS),ML Algorithms,Python","Work From Home, Full time",Pune,2-7 Years
+322,Data Scientist,Staff Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Bengaluru / Bangalore, India",7-9 Years
+323,Data Scientist,Data Scientist,LTIMindtree Limited,"AL/ML .Python,Vertex AI,Data Scientist,BigQuery",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",6-8 Years
+324,Data Scientist,Data Scientist,Elliotts Immigrations Services LLP,"Database Administrator,Data Analysis,Data Scientist","International, Full time","Canada, Germany",2-11 Years
+325,Data Scientist,Data Scientist,D Square Consulting Services Private Limited,"Mathematical Modelling,Data Science,Python","International, Full time",Other International,5-10 Years
+326,Data Scientist,Data Scientist,D Square Consulting Services Private Limited,"Sql,Python,Machine Learning","International, Full time",Other International,5-10 Years
+327,Data Scientist,Data scientist,D Square Consulting Services Private Limited,"Python,Sql","International, Full time",Other International,5-15 Years
+328,Data Scientist,Data Scientist,HNM Solutions,"RDBMS and Machine learning,python,AWS",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",3-4 Years
+329,Data Scientist,Data Scientist Required in Abroad,Donivia Overseas Private Limited,"Data Science,Machine Learning,Artificial Intelligence",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",2-12 Years
+330,Data Scientist,Data Scientist,A.P. Moller - Maersk,"Ai,Statistics,Machine Learning,Data Analytics",Full time,"Pune, India",0-2 Years
+331,Data Scientist,Data Scientist I,DP World,"scikitlearn,Statistical Techniques,Machine Learning",Full time,"Bengaluru / Bangalore, India",3-6 Years
+332,Data Scientist,"Data Scientist II, Forecasting, Selling Partner Services",Amazon Music,"Statistical,r,theoretical models,Data Analysis",Full time,India,2-3 Years
+333,Data Scientist,Data Scientist,A.P. Moller - Maersk,"Ai,Statistics,Data Analytics,Machine Learning",Full time,"Pune, India",0-2 Years
+334,Data Scientist,Senior Data Scientist - Marketplace (India),Gojek,"Statistics,CI/CD,dbt,Visualization,Python",Full time,"Bengaluru / Bangalore, India",5-7 Years
+335,Data Scientist,Staff Data Scientist (Human Resources Data),servicenow,"snowflake,random forests,Procedures,Bayesian Methods",Full time,"Hyderabad / Secunderabad, Telangana, India",3-6 Years
+336,Data Scientist,Sr. Data Scientist,Visa,"R,Hive,Tableau,Sql,Python",Full time,"Bengaluru / Bangalore, India",5-8 Years
+337,Data Scientist,"Data Scientist, Grade II",Oceaneering,"Large Scale Data Mining,Statistics,Mathematics",Full time,"Pune, India",1-3 Years
+338,Data Scientist,"Senior Vice President, Data Scientist",Bank of New York,"Risk Analytics,Fx,Pricing,Fixed Income",Full time,"Pune, India",16-18 Years
+339,Data Scientist,Data Scientist,Carrier Global,"Statistics,R,Algebra,Python,Sql,Hadoop",Full time,"Hyderabad / Secunderabad, Telangana, India",6-9 Years
+340,Data Scientist,"Vice President, Data Scientist II",Bank of New York,"Risk Analytics,Fx,Pricing,Fixed Income",Full time,"Pune, India",9-11 Years
+341,Data Scientist,Data Scientist II,DP World,"LLMs,scikitlearn,Inventory management & forecasting",Full time,"Bengaluru / Bangalore, India",5-10 Years
+342,Data Scientist,DG- Assistant Manager-Data Scientist,Genpact,"R,Sql,Power Bi,Plsql,Python,Tableau",Full time,Bengaluru / Bangalore,0-2 Years
+343,Data Scientist,Data Scientist,A.P. Moller - Maersk,"Ai,Statistics,Machine Learning,Data Analytics",Full time,"Pune, India",0-2 Years
+344,Data Scientist,MLOps Senior Data Scientist,GE Digital,"Storytelling,realtime analytics development",Full time,"Bengaluru / Bangalore, India",4-6 Years
+345,Data Scientist,"Data Scientist II, Forecasting, Selling Partner Services",Amazon Music,"Statistical,r,theoretical models,Data Analysis",Full time,India,2-3 Years
+346,Data Scientist,STAGIAIRE PERFECTIONNEMENT (PROFIL INFORMATIQUE) BAC+5,BNP Paribas,"MOA,Informatique,MIAG,Statistique,Data Scientist",Full time,"Tuni, India",0-2 Years
+347,Data Scientist,"Data Scientist II, Forecasting, Selling Partner Services",Amazon Music,"Statistical,r,theoretical models,Data Analysis",Full time,India,2-3 Years
+348,Data Scientist,DG- Assistant Manager-Data Scientist,Genpact,"R,Sql,Power Bi,Plsql,Python,Tableau",Full time,Bengaluru / Bangalore,0-2 Years
+349,Data Scientist,AGM - Corporate Audit Services,L&T Geostructure,"Data Analysis,Interpretation,data models",Full time,Mumbai,11-14 Years
+350,Data Scientist,DG-Assistant Manager-Data Scientist,Genpact,"R,Sql,Power Bi,Plsql,Python,Tableau",Full time,Bengaluru / Bangalore,0-2 Years
+351,Data Scientist,Lead Data Scientist,Freshworks,"Machine Learning,Nlp,Algorithms,Distributed Systems",Full time,"Bengaluru / Bangalore, India",0-2 Years
+352,Data Scientist,Data Scientist,A.P. Moller - Maersk,"Ai,Statistics,Machine Learning,Data Analytics",Full time,"Pune, India",0-2 Years
+353,Data Scientist,Senior Data Scientist - Marketplace (India),Gojek,"Statistics,CI/CD,dbt,Visualization,Python",Full time,"Bengaluru / Bangalore, India",5-7 Years
+354,Data Scientist,MLOps Engineer,Aptiv,"Airflow,versioning,Architect,scikit-learn",Full time,"Bengaluru / Bangalore, India",5-12 Years
+355,Data Scientist,Data Scientist,Carrier Global,"Statistics,R,Algebra,Python,Sql,Hadoop",Full time,"Hyderabad / Secunderabad, Telangana, India",6-9 Years
+356,Data Scientist,"Data Scientist II, Forecasting, Selling Partner Services",Amazon Music,"Statistical,r,theoretical models,Data Analysis",Full time,India,2-3 Years
+357,Data Scientist,Data Scientist,Revolancer Limited,"HTML,Javascript,CSS","Work From Home, Full time",Remote,0-5 Years
+358,Data Scientist,Data Scientist,Revolancer Limited,"Python,Php,Machine Learning,Sql","Work From Home, Full time","Bengaluru / Bangalore, Remote",0-5 Years
+359,Data Scientist,AI Data Scientist,Resources Valley,"Machine Learning,Pytorch,Python,R Programming",Full time,Jaipur,2-7 Years
+360,Data Scientist,Data Scientist,D Square Consulting Services Private Limited,"Ai,Python,Sql,Ml,Data Science","International, Full time",Other International,5-10 Years
+361,Data Scientist,Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Bengaluru / Bangalore, India",7-9 Years
+362,Data Scientist,Sr. D&T Data Scientist,General Mills,"Visualization,ibm ilog cplex,fmcg/cpg domain",Full time,"Mumbai, India",10-12 Years
+363,Data Scientist,Data Scientist-WFH,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Hyderabad / Secunderabad, Telangana, India",7-9 Years
+364,Data Scientist,Data Scientist,Visa,"Portfolio Management,campaign effectiveness",Full time,"Mumbai, India",3-5 Years
+365,Data Scientist,Data Scientist,Visa,"Transformation,scalable solutions,Go,Ingestion",Full time,"Bengaluru / Bangalore, India",2-4 Years
+366,Data Scientist,Staff Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Noida, India",7-9 Years
+367,Data Scientist,Lead Specialist- Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Bengaluru / Bangalore, India",7-9 Years
+368,Data Scientist,Senior Data Scientist,S&P Global,"Data Analysis,Pyspark,data wrangling,Informatica",Full time,"Ahmedabad, India",5-8 Years
+369,Data Scientist,Data Scientist - Visa Consulting & Analytics,Visa,"Transformation,scalable solutions,Go,Ingestion",Full time,"Bengaluru / Bangalore, India",5-7 Years
+370,Data Scientist,Data Scientist,Visa,"R,Machine Learning,Hadoop,Tableau",Full time,"Bengaluru / Bangalore, India",3-5 Years
+371,Data Scientist,Staff Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Hyderabad / Secunderabad, Telangana, India",7-9 Years
+372,Data Scientist,Chief Data Scientist,Tata Group,,Full time,"Bengaluru / Bangalore, India",Fresher
+373,Data Scientist,Staff Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Chennai, India",7-9 Years
+374,Data Scientist,Lead Specialist- Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Hyderabad / Secunderabad, Telangana, India",7-9 Years
+375,Data Scientist,Staff Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Kolkata, India",7-9 Years
+376,Data Scientist,Data Scientist-WFH,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Hyderabad / Secunderabad, Telangana, India",7-9 Years
+377,Data Scientist,Staff Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Ahmedabad, India",7-9 Years
+378,Data Scientist,Lead Specialist- Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Hyderabad / Secunderabad, Telangana, India",7-9 Years
+379,Data Scientist,Data Scientist,Michelin,"LSTMs,ML Engineering,Gensim,LLMs,conversational AI",Full time,"Pune, India",4-6 Years
+380,Data Scientist,Data Scientist,Tata Group,"data models,AI/ML,Data Science,Data Mining",Full time,"Chennai, India",3-10 Years
+381,Data Scientist,Staff Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Kolkata, India",7-9 Years
+382,Data Scientist,Data Scientist,Visa,"Transformation,scalable solutions,Go,Ingestion",Full time,"Bengaluru / Bangalore, India",2-4 Years
+383,Data Scientist,Sr. D&T Data Scientist,General Mills,"FMCG/CPG domain,LP/MIP mathematical modelling",Full time,"Mumbai, India",10-12 Years
+384,Data Scientist,Staff Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Pune, India",7-9 Years
+385,Data Scientist,Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Pune, India",7-9 Years
+386,Data Scientist,Senior Data Scientist,S&P Global,"Data Analysis,Pyspark,data wrangling,Informatica",Full time,"Ahmedabad, India",5-8 Years
+387,Data Scientist,Data Scientist,Visa,"R,Machine Learning,Hadoop,Tableau",Full time,"Bengaluru / Bangalore, India",3-5 Years
+388,Data Scientist,Lead Specialist- Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Pune, India",7-9 Years
+389,Data Scientist,Senior Manager _ Project Lead _Senior Data Scientist / ML Engineer _ D&A _ Pune,Vodafone,"Data Science,Machine Learning,Big Data",Full time,Pune,5-7 Years
+390,Data Scientist,Staff Data Scientist,Uplers,"Looker,Communication,Analytics,Agile",Full time,"Noida, India",7-9 Years
+391,Data Scientist,Data Scientist,Cardinal Health,"Unsupervised Machine Learning,Airflow,GCE",Full time,"Bengaluru / Bangalore, India",3-7 Years
+392,Data Scientist,Senior Manager _ Project Lead _Senior Data Scientist / ML Engineer _ D&A _ Pune,Vodafone Intelligent Solutions,"Big Data,Data Analytics,Statistical Analysis",Full time,"Pune, India",5-7 Years
+393,Data Scientist,Lead Data Scientist - Customer Success,Salesforce,"Airflow,R,snowflake,mlFlow,Machine Learning",Full time,"Hyderabad / Secunderabad, Telangana, India",2-4 Years
+394,Data Scientist,Senior Data Scientist,Activision Blizzard,"R,LLMs,fine-tuning LLMs,Text annotation",Full time,"Hyderabad / Secunderabad, Telangana, India",10-12 Years
+395,Data Scientist,Senior Data Scientist,Oceaneering,"Deep Stream Framework,NVIDIA""s Jetson Board",Full time,"Pune, India",3-5 Years
+396,Data Scientist,Lead/Senior Data Scientist,3Pillar Global,"Q&A,Gen AI,Llama,CNNs,LangChain",Full time,"Indi, India",7-15 Years
+397,Data Scientist,Data Scientist II,General Mills,"Modelling,Cloud Platforms,R,Machine Learning",Full time,"Mumbai, India",3-4 Years
+398,Data Scientist,Assistant Scientist Data Engineering,AXA,"Stone branch,Delta table,Pyspark,Sql",Full time,"Bengaluru / Bangalore, India",5-7 Years
+399,Data Scientist,Data Scientist,Deutsche Bank,"R,trees,GLM/Regression,Boosting,social network analysis",Full time,"Pune, India",0-2 Years
+400,Data Scientist,"Data Scientist, AVP",Deutsche Bank,"mathematics,analytical tools,Statistical Techniques",Full time,"Pune, India",Fresher
+401,Machine Learning Engineer,Machine Learning Engineer Required in Abroad,Donivia Overseas Private Limited,"machine learning engineer,Machine Learning",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",2-12 Years
+402,Machine Learning Engineer,Python Developer,HCL Technologies Limited,"Python,Microservices,Kubernetes,Machine Learning",Full time,Bengaluru / Bangalore,3-10 Years
+403,Machine Learning Engineer,Machine Learning Engineer,Qualcomm,"image/audio captioning,Audio,Video,text-to-audio",Full time,"Hyderabad / Secunderabad, Telangana, India",1-2 Years
+404,Machine Learning Engineer,Machine Learning Engineer,True Tech Professionals Private Limited,"LLMs,BERT,GPT -variant,tensor flow,Transformer",Full time,Remote,6-16 Years
+405,Machine Learning Engineer,Manager Machine Learning Engineer,servicenow,"Ai,code tuning,Profiling,Ml,Unit Testing",Full time,"Hyderabad / Secunderabad, Telangana, India",1-8 Years
+406,Machine Learning Engineer,Machine Learning Engineer,servicenow,"code tuning,Profiling,Java,Oop,Algorithms",Full time,India,2-4 Years
+407,Machine Learning Engineer,Machine Learning - Staff Engineer,Qualcomm,"i2,CCIX,Rtos,Machine Learning,Perforce",Full time,"Bengaluru / Bangalore, India",5-8 Years
+408,Machine Learning Engineer,Machine Learning Operation Engineer,Future A4,"Machine Learning,Data Science,python",Full time,Bengaluru / Bangalore,3-8 Years
+409,Machine Learning Engineer,"Engineer, Staff",Qualcomm,"Quantization,ONNX,System Design Fundamentals",Full time,"Hyderabad / Secunderabad, Telangana, India",2-14 Years
+410,Machine Learning Engineer,Sr. Machine Learning Engineer (WFH),Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Pune, India",6-8 Years
+411,Machine Learning Engineer,ETL Developer,HighPoints Technologies India Private Limited,ETL Developer,Full time,"Gurgaon / Gurugram, Chandigarh",3-6 Years
+412,Machine Learning Engineer,Machine Learning Engineer Required in Abroad,Donivia Overseas Private Limited,"machine learning engineer,Machine Learning",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",2-12 Years
+413,Machine Learning Engineer,Sr. Machine Learning Engineer (WFH),Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Noida, India",6-8 Years
+414,Machine Learning Engineer,"Engineer, Senior",Qualcomm,"Tableu,Onnx,Tensorflow,Machine Learning",Full time,"Hyderabad / Secunderabad, Telangana, India",1-6 Years
+415,Machine Learning Engineer,"Engineer, Senior",Qualcomm,"Tensorflow,Machine Learning,C++,Pytorch",Full time,"Hyderabad / Secunderabad, Telangana, India",1-6 Years
+416,Machine Learning Engineer,Engineer,Qualcomm,"Playwright,Software testing methodologies",Full time,"Hyderabad / Secunderabad, Telangana, India",1-4 Years
+417,Machine Learning Engineer,Machine Learning Engineer (WFH),Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Bengaluru / Bangalore, India",6-8 Years
+418,Machine Learning Engineer,"MTS 1, Machine Learning Engineer",PayPal,Data processing and visualization with libraries like numpy,Full time,India,0-2 Years
+419,Machine Learning Engineer,Machine Learning Engineer (WFH),Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Chennai, India",6-8 Years
+420,Machine Learning Engineer,Machine Learning Engineer,A.P. Moller - Maersk,"scikit-learn,Statistical Techniques,Classification",Full time,"Bengaluru / Bangalore, India",2-4 Years
+421,Machine Learning Engineer,Machine Learning Engineer (WFH),Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Delhi, India",6-8 Years
+422,Machine Learning Engineer,Staff SW Engineer - Machine Learning Accelerator,Qualcomm,"Memory,Design Patterns Principles,Source Code",Full time,"Bengaluru / Bangalore, India",0-4 Years
+423,Machine Learning Engineer,ML Engineer- WFH,Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Noida, India",4-6 Years
+424,Machine Learning Engineer,Sr. Machine Learning Engineer (WFH),Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Bengaluru / Bangalore, India",6-8 Years
+425,Machine Learning Engineer,Machine Learning Engineer- WFH,Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Noida, India",4-6 Years
+426,Machine Learning Engineer,Senior Machine Learning Engineer,A.P. Moller - Maersk,"scikit-learn,ClearML,Kubeflow,Java,Golang",Full time,"Bengaluru / Bangalore, India",0-2 Years
+427,Machine Learning Engineer,Machine Learning Engineer II,Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Bengaluru / Bangalore, India",4-6 Years
+428,Machine Learning Engineer,Lead Machine Learning Engineer,Epsilon India,"Serverless Frameworks,Data Catalog,Agile/Scrum",Full time,"Bengaluru / Bangalore, India",10-12 Years
+429,Machine Learning Engineer,Machine Learning Engineer,Askexim Services,"Machine Learning,Pyspark,Python,Scala",Full time,"Bengaluru / Bangalore, Pune",3-6 Years
+430,Machine Learning Engineer,Senior Machine Learning Developer- WFH,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Pune, India",7-9 Years
+431,Machine Learning Engineer,Machine Learning Engineer | ChatGPT,Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Pune, India",6-8 Years
+432,Machine Learning Engineer,Machine Learning Engineer,Apple,"PyPorch,GPT,R,BERT,Airflow,Notebooks",Full time,"Hyderabad / Secunderabad, Telangana, India",4-6 Years
+433,Machine Learning Engineer,Machine Learning Engineer (WFH),Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Chennai, India",6-8 Years
+434,Machine Learning Engineer,"Machine Learning Engineer (ML Algorithms, Python, AWS)",Carrier Global,"scikit-learn,langchain,lightgbm,caffe",Full time,"Hyderabad / Secunderabad, Telangana, India",2-4 Years
+435,Machine Learning Engineer,Machine Learning Engineer II,Uplers,,Full time,"Hyderabad / Secunderabad, Telangana, India",Fresher
+436,Machine Learning Engineer,Lead Machine Learning Engineer (WFH),Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Mumbai, India",6-8 Years
+437,Machine Learning Engineer,Machine Learning Engineer | ChatGPT,Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Noida, India",6-8 Years
+438,Machine Learning Engineer,Sr Machine Learning Engineer,servicenow,"BI technologies,Customer,Sales,Product",Full time,"Hyderabad / Secunderabad, Telangana, India",5-7 Years
+439,Machine Learning Engineer,Machine Learning Engineer | ChatGPT,Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Hyderabad / Secunderabad, Telangana, India",6-8 Years
+440,Machine Learning Engineer,Lead Machine Learning Engineer (WFH),Uplers,,Full time,"Ghaziabad, India",Fresher
+441,Machine Learning Engineer,Principal ML Engineer- Bengaluru,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+442,Machine Learning Engineer,ML Developer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+443,Machine Learning Engineer,Sr. ML Engineer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+444,Machine Learning Engineer,Associate ML Developer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+445,Machine Learning Engineer,ML Engineer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+446,Machine Learning Engineer,Machine Learning Specialist,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+447,Machine Learning Engineer,Senior Machine Learning Engineer,Epsilon India,"Serverless Frameworks,Data Catalog,Agile/Scrum",Full time,"Bengaluru / Bangalore, India",5-7 Years
+448,Machine Learning Engineer,ML Software Engineer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+449,Machine Learning Engineer,ML Engineer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+450,Machine Learning Engineer,Machine Learning Developer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+451,Machine Learning Engineer,"MLOps Engineer II, Amazon",Amazon Music,"ci/cd,Machine Learning,unix,Data Science",Full time,India,2-4 Years
+452,Machine Learning Engineer,Associate Lead Machine Learning Engineer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+453,Machine Learning Engineer,"MTS 2, Machine Learning Engineer",PayPal,"Deep Neural Networks,Vertex AI,Data Analysis",Full time,India,2-4 Years
+454,Machine Learning Engineer,Sr. ML Engineer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+455,Machine Learning Engineer,ML Developer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+456,Machine Learning Engineer,Associate ML Developer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+457,Machine Learning Engineer,Lead Machine Learning Engineer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+458,Machine Learning Engineer,Machine Learning Engineer- Python,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+459,Machine Learning Engineer,Machine Learning Engineer- Bengaluru,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+460,Machine Learning Engineer,Sr Software Engineer- ML,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+461,Machine Learning Engineer,Senior Machine Learning Engineer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+462,Machine Learning Engineer,Machine Learning Engineer- Python,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+463,Machine Learning Engineer,Sr Software Machine Learning Engineer,Uplers,"Large Language Model (LLM),Machine Learning",Full time,"Bengaluru / Bangalore, India",7-9 Years
+464,Machine Learning Engineer,Sr Machine Learning Quality Engineer,servicenow,"code tuning,Profiling,Java,Unit Testing",Full time,"Hyderabad / Secunderabad, Telangana, India",5-7 Years
+465,Machine Learning Engineer,Senior Machine Learning Engineer,Epsilon India,"Serverless Frameworks,Data Catalog,Agile/Scrum",Full time,"Bengaluru / Bangalore, India",5-7 Years
+466,Machine Learning Engineer,Machine Learning/Deep Learning Engineer With C++,Mirafra Software Technologies Private Limited,"Machine Learning,Deep Learning,Artificial Intelligence",Full time,"Hyderabad / Secunderabad, Telangana",2-5 Years
+467,Machine Learning Engineer,Principal Machine Learning Engineer,Informatica,"Google,Hugging Face,Ai,Kubeflow,KServe",Full time,"Bengaluru / Bangalore, India",7-9 Years
+468,Machine Learning Engineer,AI and Machine Learning Engineer IV,Hewlett Packard Enterprise,"Python,Sql,Java,Data Warehousing,Hadoop",Full time,"Bengaluru / Bangalore, India",0-10 Years
+469,Machine Learning Engineer,Machine Learning,E-Solution India,"mobile robotics,Robotics,Nvidia,TFlite",Full time,Bengaluru / Bangalore,2-12 Years
+470,Machine Learning Engineer,Machine Learning Ops Engineer,LTIMindtree Limited,"Automation CI/CD,Machine Learning,Gcp",Full time,"Bengaluru / Bangalore, Mumbai",7-12 Years
+471,Machine Learning Engineer,Machine Learning Engineer,A.P. Moller - Maersk,"scikit-learn,Statistical Techniques,Classification",Full time,"Bengaluru / Bangalore, India",2-4 Years
+472,Machine Learning Engineer,Machine Learning Engineer,ExxonMobil,"MLflow,Classification,Regression,C,Databricks",Full time,"Bengaluru / Bangalore, India",3-7 Years
+473,Machine Learning Engineer,Lead Software Engineer - Machine Learning,Freshworks,"streaming applications,big data tech,Machine Learning Algorithms",Full time,"Chennai, India",0-2 Years
+474,Machine Learning Engineer,Sr Platform Engineer Machine Learning,Edu Angels India Private Limited,"""Machine Learning"",Platform,Python,Docker",Full time,Mumbai,3-8 Years
+475,Machine Learning Engineer,Machine Learning AI Platform Engineer,Omni Recruit Private Limited,"Ai,Machine Learning,Artificial Intelligence",Full time,Remote,3-8 Years
+476,Machine Learning Engineer,Sr Machine Learning Engineer,servicenow,"Sagemaker,DAG,CI/CD,ECS,Pipeline",Full time,"Hyderabad / Secunderabad, Telangana, India",5-7 Years
+477,Machine Learning Engineer,Cloud Developer,Hewlett Packard Enterprise,"Scala,Pytorch,Tensorflow,Python,Kubernetes",Full time,"Hyderabad / Secunderabad, Telangana, India",5-7 Years
+478,Machine Learning Engineer,"Engineer, Senior",Qualcomm,"Python,Deep Learning,Tensorflow,C++",Full time,"Hyderabad / Secunderabad, Telangana, India",1-6 Years
+479,Machine Learning Engineer,"Engineer, Staff",Qualcomm,"Onnx,Tableu,TShell,Test Strategy,Test Estimation",Full time,"Hyderabad / Secunderabad, Telangana, India",2-10 Years
+480,Machine Learning Engineer,Senior Machine Learning Engineer,A.P. Moller - Maersk,"scikit-learn,ClearML,Kubeflow,Java,Golang",Full time,"Bengaluru / Bangalore, India",0-2 Years
+481,Machine Learning Engineer,"Engineer, Senior",Qualcomm,"Onnx,Tableu,Python,mySQL,Powerbi",Full time,"Hyderabad / Secunderabad, Telangana, India",1-6 Years
+482,Machine Learning Engineer,Urgent Hiring MLE (Machine Learning Engineer),Capgemini Technology Services India Limited,MLE,Full time,"Hyderabad / Secunderabad, Telangana, Kolkata",3-8 Years
+483,Machine Learning Engineer,Engineer,Qualcomm,"Data visualization tools,CI tools,Electron JS",Full time,"Hyderabad / Secunderabad, Telangana, India",1-4 Years
+484,Machine Learning Engineer,Machine Learning - Staff Engineer,Qualcomm,"HSW,i2,IDES,CCIX,HE,C,Spi,Soc",Full time,"Bengaluru / Bangalore, India",5-7 Years
+485,Machine Learning Engineer,Machine Learning Engineer,Apple,"manufacturing,linear & nonlinear constrained optimization",Full time,"Bengaluru / Bangalore, India",4-6 Years
+486,Machine Learning Engineer,Lead Data Scientist,Smiths Group,"R,scikit-learn,Python,Keras,Pytorch",Full time,"Bengaluru / Bangalore, India",7-10 Years
+487,Machine Learning Engineer,"Engineer, Staff",Qualcomm,"Ai,NPU,VLIW,C,Ml,Gpu,Cuda,Opencl",Full time,"Hyderabad / Secunderabad, Telangana, India",2-10 Years
+488,Machine Learning Engineer,Machine Learning Operations Engineer,Foundit : formerly Monster (APAC & ME),Machine Learning Operations,Full time,"Bengaluru / Bangalore, Noida",2-5 Years
+489,Machine Learning Engineer,Machine Learning Engineer,Gvms Infotech Private Limited,"cikit-learn,adoop,R code writing,Python",Full time,Bengaluru / Bangalore,4-8 Years
+490,Machine Learning Engineer,Machine Learning Engineer,Novature Tech Private Limited,"Machine Learning,Python,Nlp,Sql,Nosql",Full time,Chennai,2-7 Years
+491,Machine Learning Engineer,Senior Manager - Senior Developer,Genpact,"plotly,scikit-learn,python,Numpy,Tensorflow",Full time,"Gurugram, Gurgaon / Gurugram",5-7 Years
+492,Machine Learning Engineer,Senior Machine Learning Ops Engineer,Gvms Infotech Private Limited,"CloudOps,Dockerization,CI/CD,statisticaltesting",Full time,Bengaluru / Bangalore,8-12 Years
+493,Machine Learning Engineer,Machine Learning Engineer,Qualcomm,"multimodal,Video,Image,C/C++,Audio",Full time,"Hyderabad / Secunderabad, Telangana, India",1-2 Years
+494,Machine Learning Engineer,Sr. Machine Learning Engineer - PG65 (Job Code : J46887),Sampoorna Consultants Private Limited,"MLops,Python,Sql,Cloud",Full time,"Mumbai, Mumbai City, Navi Mumbai, Thane",5-10 Years
+495,Machine Learning Engineer,AI Engineer,True Tech Professionals Private Limited,"Llm,Data Scientist,Nlp",Full time,Gurgaon / Gurugram,4-7 Years
+496,Machine Learning Engineer,Machine Learning Engineer (NLP),Merit Data and Technology Private Limited,"Deep Learning LMs,LLMs,Data wrangling cleansing",Full time,Remote,4-7 Years
+497,Machine Learning Engineer,Senior Machine Learning Engineer,A.P. Moller - Maersk,"ClearML,scikit-learn,Python,Keras,Java",Full time,"Bengaluru / Bangalore, India",0-2 Years
+498,Machine Learning Engineer,Staff SW Engineer - Machine Learning Accelerator,Qualcomm,"Emulators,Tool Development,Design Patterns Principles",Full time,"Bengaluru / Bangalore, India",2-4 Years
+499,Machine Learning Engineer,AI-ML Engineer,Redberyl Tech Solutions Private Limited,"Computer Science,deep learning Usage,Service Industry",Full time,"Mumbai, Pune",4-14 Years
+500,Machine Learning Engineer,Staff Machine Learning Engineer,Twillio,"Python,Keras,Pytorch,Dynamodb,Tensorflow",Full time,"Bengaluru / Bangalore, India",7-9 Years
