@@ -1,0 +1,51 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,Data Engineer,Data Engineer,Synechron Technologies Private Limited,"Data Engineer,Python,Scala,Sql",Full time,"Delhi, Kolkata",5-8 Years
+2,Data Engineer,Data Engineer,Synechron Technologies Private Limited,"Data Engineer,Python,Scala,Sql",Full time,"Bengaluru / Bangalore, Pune",5-8 Years
+3,Data Engineer,Consultant -Data Engineer,Company name confidential,Data Engineer,Full time,Chennai,5-9 Years
+4,Data Engineer,AWS Data Engineer,LTIMindtree Limited,"Talend,AWS",Full time,Kolkata,5-8 Years
+5,Data Engineer,Azure Data Engineer,LTIMindtree Limited,"Azure Datafactory,Azure Databricks",Full time,"Bengaluru / Bangalore, Chennai",5-10 Years
+6,Data Engineer,GCP Data Engineer,LTIMindtree Limited,"Gcp,BigQuery,Python",Full time,"Mumbai, Pune",3-13 Years
+7,Data Engineer,GCP Data Engineer,LTIMindtree Limited,"Gcp,BigQuery,Python",Full time,"Indore, Nagpur",3-13 Years
+8,Data Engineer,Data Engineer - OACS,LTIMindtree Limited,"OACS,OAC,OAS",Full time,Mumbai,3-8 Years
+9,Data Engineer,GCP Data Engineer,LTIMindtree Limited,"Gcp,BigQuery,Python",Full time,"Chennai, Delhi",3-13 Years
+10,Data Engineer,"Data Engineer(Pyspark,AWS)",Venpa Staffing Services India Private Limited,"Pyspark,aws",Full time,Chennai,8-13 Years
+11,Data Analyst,Data Quality Analyst,Synechron Technologies Private Limited,"Data Quality Analyst,Data Quality,Data Management",Full time,"Delhi, Kolkata",5-7 Years
+12,Data Analyst,Data Quality Analyst,Synechron Technologies Private Limited,"Data Quality Analyst,Data Quality,Data Management",Full time,"Bengaluru / Bangalore, Pune",5-7 Years
+13,Data Analyst,Data Services - Lead Analyst,Mphasis,"Insurance,Ms Office Suite,Interpersonal Skills",Full time,"Pune, India",3-5 Years
+14,Data Analyst,DATA ANALYST INTERNSHIP AT PUNE,Maxgen Technologies Private Limited,"Internship,Live Projects,B - Tech,Bca,Academic Projects",Full time,"Pune, Nanded",Fresher
+15,Data Analyst,Data Analyst Required,Roundworld Immigration Private Limited,"Data Analyst,Reporting Analyst,MIS Analyst","International, Full time",Canada,2-7 Years
+16,Data Analyst,Data Mining Analyst,Make Visions Outsourcing Private Limited,Data Mining,Full time,Ahmedabad,1-5 Years
+17,Data Analyst,Data Analyst | Business Analyst | Fresher IT Job - Fresher Can Apply,Structured Learning Assistance Consultants India Private Limited,"Data Analyst,Reporting Analyst,Mis Executive",Full time,"Delhi, Noida",0-5 Years
+18,Data Analyst,Data Mining Analyst,Make Visions Outsourcing Private Limited,Data Mining Analyst,Full time,Ahmedabad,0-1 Years
+19,Data Analyst,"Data Domain Architect Analyst - Data Annotation, Finance",Chase Bank,"Data Collection,f-score,data annotation",Full time,"Bengaluru / Bangalore, India",2-5 Years
+20,Data Analyst,"TECHNICAL ANALYST (MSTR, data modelling)",Coforge,"data sources,Command Manager,self-service analytics",Full time,"Nagar, India",3-4 Years
+21,Data Architect,Data Architect,Synechron Technologies Private Limited,"Data Architect,Solution Architecture,Python",Full time,"Delhi, Kolkata",10-13 Years
+22,Data Architect,Data Architect,Synechron Technologies Private Limited,"Data Architect,Solution Architecture,Python",Full time,"Bengaluru / Bangalore, Pune",10-13 Years
+23,Data Architect,GCP Data Architect,Tata Group,"Google BigQuery,Gcp,AWS,Big Data,Cloud",Full time,"Bengaluru / Bangalore, India",10-15 Years
+24,Data Architect,Azure Data Architect,Tata Group,"Security,applicationsretirement,delivery of solutions",Full time,"Ahmedabad, India",4-7 Years
+25,Data Architect,Senior Principal Consultant - Databricks Platform + Data Architect,Genpact,"Security,dbt,rbac,delta lake,oidc,data processing systems",Full time,Jaipur,0-2 Years
+26,Data Architect,Data architect,Company name confidential,Working experience in Data migration and conversions. Working Experience on SQL server and SQL server Scripts,"Contract Job, Part time",Other India,7-10 Years
+27,Data Architect,"Data Domain Architect Analyst - Data Annotation, Finance",Chase Bank,"Data Collection,f-score,data annotation",Full time,"Bengaluru / Bangalore, India",2-5 Years
+28,Data Architect,"Data & Information Architect - PL-SQL, ETL , OAS or ODI , Data Modelling",Baker Hughes,"PL- SQL,OAS,Etl,Oracle BI,Rally,Jira",Full time,"Mumbai, India",5-7 Years
+29,Data Architect,"Data Domain Architect Analyst - Data Annotation, Finance",Chase Bank,"Data Collection,f-score,data annotation",Full time,"Bengaluru / Bangalore, India",2-5 Years
+30,Data Architect,"Data Domain Architect Analyst - Data Annotation, Finance",Chase Bank,"Data Collection,f-score,data annotation",Full time,"Bengaluru / Bangalore, India",2-5 Years
+31,Data Scientist,Senior Data Scientist,Barclays,"R,matrix leadership,financial analysis,Management Accounting",Full time,Delhi,0-2 Years
+32,Data Scientist,Data Scientist Manager,Mpowering HR Solutions,"R,customer analytics,Social Media,costomer serivice","Contract Job, Part time","Bengaluru / Bangalore, Pune",8-12 Years
+33,Data Scientist,Senior Data Scientist,servicenow,"R,ServiceNow Platform,Performance Analytics",Full time,India,1-4 Years
+34,Data Scientist,DG-Manager-Data Scientist,Genpact,"R,Sql,Power Bi,Plsql,Python,Tableau",Full time,"Hyderabad / Secunderabad, Telangana",0-2 Years
+35,Data Scientist,Senior Data Scientist,servicenow,"R,ServiceNow Platform,Performance Analytics",Full time,India,1-4 Years
+36,Data Scientist,Senior Data Scientist Engineer,A.P. Moller - Maersk,"KubeFlow,Airflow,Scikit-Learn,Recommendation Systems",Full time,"Bengaluru / Bangalore, India",0-10 Years
+37,Data Scientist,Manager - Data Scientist,Mphasis,"LSTM,RNNs,No-SQL,Dataiku,BERT,Text Analytics",Full time,"Hyderabad / Secunderabad, Telangana, India",4-10 Years
+38,Data Scientist,Manager - GenAI Data Scientist,Genpact,"R,Torch,Data Sciences,theano,SAS-Text Miner",Full time,Bengaluru / Bangalore,0-2 Years
+39,Data Scientist,Sr Data Scientist,Amazon Music,"Ai,Large Foundational Models,Unsupervised",Full time,India,6-8 Years
+40,Data Scientist,Data Scientist,Ericsson,"statistical learning,Real time data ingestion",Full time,"Noida, India",5-15 Years
+41,Machine Learning Engineer,Machine Learning Engineer Required in Abroad,Donivia Overseas Private Limited,"machine learning engineer,Machine Learning",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",2-12 Years
+42,Machine Learning Engineer,"Engineer, Senior",Qualcomm,"Tensorflow,Machine Learning,C++,Pytorch",Full time,"Hyderabad / Secunderabad, Telangana, India",1-6 Years
+43,Machine Learning Engineer,"Engineer, Staff",Qualcomm,"Quantization,ONNX,System Design Fundamentals",Full time,"Hyderabad / Secunderabad, Telangana, India",2-14 Years
+44,Machine Learning Engineer,Senior/Software Development Engineer in Test - Machine Learning,PubMatic,"Pytest,python,Machine Learning,Testing",Full time,"Pune, India",1-3 Years
+45,Machine Learning Engineer,Machine Learning Engineer- WFH,Uplers,"ChatGPT,llm prompt engineering,snowflake",Full time,"Noida, India",4-6 Years
+46,Machine Learning Engineer,"MTS 1, Machine Learning Engineer",PayPal,Data processing and visualization with libraries like numpy,Full time,India,0-2 Years
+47,Machine Learning Engineer,Sr Software Machine Learning Engineer,servicenow,"nlu,Ai,attivio,Machine Learning,Ml,Lucene",Full time,India,4-6 Years
+48,Machine Learning Engineer,Machine Learning Operation Engineer,Future A4,"Machine Learning,Data Science,python",Full time,Bengaluru / Bangalore,3-8 Years
+49,Machine Learning Engineer,Python Developer,HCL Technologies Limited,"Python,Microservices,Kubernetes,Machine Learning",Full time,Bengaluru / Bangalore,3-10 Years
+50,Machine Learning Engineer,Machine Learning Engineer Required in Abroad,Donivia Overseas Private Limited,"machine learning engineer,Machine Learning",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",2-12 Years
