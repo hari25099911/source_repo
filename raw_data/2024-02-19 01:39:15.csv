@@ -1,6 +1,0 @@
-key,job_role,job_title,company_name,skills,job_type,location,experience
-1,Data Engineer,Data Science Engineer,Electrobrain Modern Technologies Private Limited,"['Microservices', 'Web Technologies', 'Data Science']",Full time,"Noida, Pune",3-8 Years
-2,Data Analyst,Advisory-Management-P Data Visualization Analyst,KPMG,[],Full time,Bengaluru / Bangalore,Fresher
-3,Data Architect,Principal Data Architect,Oracle,"['proposal reviews', 'rapid proof', 'Competitor Analysis']",Full time,"Bengaluru / Bangalore, India",10-15 Years
-4,Data Scientist,Data Scientist 3,PayPal,"['R', 'Linux', 'SAS', 'Tableau', 'Marketo', 'Google Analytics']",Full time,India,9-11 Years
-5,Machine Learning Engineer,Machine Learning Ops Engineer,LTIMindtree Limited,"['Machine Learning Ops', 'Machine Learning']",Full time,"Bengaluru / Bangalore, Chennai",5-9 Years
