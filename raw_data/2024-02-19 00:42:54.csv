@@ -1,0 +1,51 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,Data Engineer,Onsite Job For IT GCP DATA Engineer USA H1B Visa,Vaakruthi Software Solutions,['Salesforce'],Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",2-10 Years
+2,Data Engineer,BI DATA ENGINEER,HighPoints Technologies India Private Limited,"['BI DATA ENGINEER', 'Domo', 'Etl', 'Sql', 'Agile']",Full time,"Gurgaon / Gurugram, Chandigarh",6-10 Years
+3,Data Engineer,L3 Data Center Engineer,HTIS Telecom Private Limited,"['Hardware', 'Datacenter', 'nexus', 'It Infrastructure']",Full time,"Chennai, Mumbai, Mumbai City, Navi Mumbai",12-18 Years
+4,Data Engineer,GCP DATA ENGINEER,Adept Strategic Human Resources Management,"['GCP DATA ENGINEER', 'Gcp', 'Docker', 'Kubernetes']",Full time,Bengaluru / Bangalore,7-12 Years
+5,Data Engineer,Onsite Job For IT GCP DATA Engineer USA H1B Visa,Vaakruthi Software Solutions,"['Oracle Apps', 'Oracle Apps Functional']",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",3-8 Years
+6,Data Engineer,Data Integration Engineer,Electrobrain Modern Technologies Private Limited,"['Relationship Building', 'Manager Technology']",Full time,"Noida, Pune",4-8 Years
+7,Data Engineer,Data Science Engineer,Electrobrain Modern Technologies Private Limited,['pythondata miningProblem SolvingsqlData Science Pysparkalgorithmsnatural language processingteam handlingtime seriesnosqlanalyticsdeep learningregressionlogistic regressionmongodb'],Full time,"Noida, Pune",3-8 Years
+8,Data Engineer,Data Integration Engineer,Electrobrain Modern Technologies Private Limited,"['Relationship Building', 'Manager Technology']",Full time,"Noida, Pune",4-8 Years
+9,Data Engineer,Spark / Scala – Data Engineer - Hybrid model,Skanda IT Consulting Private Limited,"['Hive SQL', 'Spark', 'Scala', 'Data Engineer', 'Pyspark']",Full time,"Bengaluru / Bangalore, Mumbai",6-12 Years
+10,Data Engineer,AWS/PYTHON DATA ENGINEER,Mpowering HR Solutions,"['Sage maker', 'Network/NACL', 'Bit Bucket', 'Data Engineer']",Full time,"Bengaluru / Bangalore, Pune",7-11 Years
+11,Data Analyst,Deputy General Manager_Architect-OPC_Senior RM Data Analyst Lead_Pune,Vodafone,"['PowerQuery', 'Power Apps', 'Power Bi', 'Power Automate']",Full time,Pune,18-20 Years
+12,Data Analyst,Senior Analyst - Data Science,Electrobrain Modern Technologies Private Limited,"['silicon', 'Consulting', 'Analytical', 'Process Documentation']",Full time,"Noida, Pune",2-7 Years
+13,Data Analyst,DATA ANALYST INTERNSHIP AT PUNE,Maxgen Technologies Private Limited,"['Internship', 'Live Projects', 'Academic Projects']",Full time,"Pune, Solapur",Fresher
+14,Data Analyst,Master Data Steward/Analyst,Akzonbel,"['MDM', 'Root Cause Analysis', 'master data quality']",Full time,"Pune, India",2-3 Years
+15,Data Analyst,Data Analyst - Max - 30 LPA,Rapsys Tech Solutions Private Limited,"['Data Analyst', 'Data Flow', 'Airflow', 'ibm infosphere']",Full time,Bengaluru / Bangalore,7-17 Years
+16,Data Analyst,Assistant Manager-Data Quality Analyst,Genpact,"['Reltio MDM platform', 'Data Quality', 'Master Data Governance']",Full time,Bengaluru / Bangalore,0-2 Years
+17,Data Analyst,"Senior Analyst, Analytics - Data Steward (L09)",Synchrony Financial,"['risk management', 'self-assessment', 'workflow monitoring']",Full time,Harsewakpur No.2,2-4 Years
+18,Data Analyst,DATA ANALYST INTERNSHIP IN PUNE,Maxgen Technologies Private Limited,"['Internship', 'Live Projects', 'Academic Projects']",Full time,"Pune, Dhule / Dhulia",Fresher
+19,Data Analyst,Data Pull Analyst - Tax & Treasury Operations & Risk Management (Contractor),Oracle,"['Data reconciliations', 'Problem Solving', 'Microsoft Powerpoint']",Full time,India,4-5 Years
+20,Data Analyst,Senior Data Analyst,servicenow,"['Statistics', 'IP networks', 'Excel', 'Power Bi', 'Sql']","International, Full time","Canada, India",5-7 Years
+21,Data Architect,"Data Architect, Analytics products, Route to Market",Hindustan Unilever,"['data retrieval', 'Cloud Spanner', 'data integration processes']",Full time,"Bengaluru / Bangalore, India",5-7 Years
+22,Data Architect,Data Science Architect,Apexon,"['AI-ML', 'Nlp', 'Ocr', 'Python']",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",12-19 Years
+23,Data Architect,Senior Principal Consultant - Databricks Data Architect,Genpact,"['Databricks AI/ML', 'mlFlow', 'rbac', 'AWS sagemaker']",Full time,Bengaluru / Bangalore,0-2 Years
+24,Data Architect,Senior Data Architect,Oracle,"['proposal reviews', 'rapid proof', 'Competitor Analysis']",Full time,"Bengaluru / Bangalore, India",10-15 Years
+25,Data Architect,Principal Data Architect,Oracle,"['proposal reviews', 'rapid proof', 'Competitor Analysis']",Full time,"Bengaluru / Bangalore, India",10-15 Years
+26,Data Architect,Big Data Architect| Leading Manufacturing Giant| Mumbai/ Pune,Michael Page,"['cloud platforms', 'Big Data', 'Data Architecture']",Full time,"Mumbai, India",8-12 Years
+27,Data Architect,Azure Data Architect,Tata Group,"['design techniques', 'DataOps', 'Synapse', 'Data Lakes']",Full time,"Bengaluru / Bangalore, India",0-2 Years
+28,Data Architect,Data Architect,Synechron Technologies Private Limited,"['Data Architect', 'Solution Architecture', 'Python']",Full time,"Delhi, Kolkata",10-13 Years
+29,Data Architect,"Senior Principal Consultant, Data Architect",Genpact,"['snowflake', 'data lineage', 'ETL workflows', 'Cloud']",Full time,Bengaluru / Bangalore,0-2 Years
+30,Data Architect,Data Architect,GSPANN Technologies,"['Data Architects', 'Data Architect', 'Data Architecture']",Full time,"Gurgaon / Gurugram, Hyderabad / Secunderabad, Telangana",8-18 Years
+31,Data Scientist,"Data Scientist , AI /Machine Learning Engineer",Uplers,"['Generative AI', 'Machine Learning', 'software design patterns']",Full time,"Madurai, India",0-5 Years
+32,Data Scientist,Data Scientist Job,Dmaic Academy And Consultancy,['Data Scientist'],Full time,"Hyderabad / Secunderabad, Telangana",5-7 Years
+33,Data Scientist,Data Scientist,Elite,['Data Scientist'],Full time,Coimbatore,2-7 Years
+34,Data Scientist,Data Scientist,Company name confidential,"['Python', 'Ruby']","Work From Home, Full time",Bengaluru / Bangalore,0-5 Years
+35,Data Scientist,Data Scientist-Python developer,Mpowering HR Solutions,"['Data Preprocessing', 'AzureML', 'python package development']",Full time,"Bengaluru / Bangalore, Pune",3-8 Years
+36,Data Scientist,Data Scientist 2,PayPal,"['a/b testing', 'causal inference', 'Regression and Forecasting']",Full time,India,3-5 Years
+37,Data Scientist,Data Scientist 3,PayPal,"['R', 'Linux', 'SAS', 'Tableau', 'Marketo', 'Google Analytics']",Full time,India,9-11 Years
+38,Data Scientist,Data Scientist,Company name confidential,"['Big Data', 'Machine Learning']","Work From Home, Full time","Bengaluru / Bangalore, Pune",1-5 Years
+39,Data Scientist,Data Scientist,Serendipity Corporate Services,['Python'],Full time,Pune,2-4 Years
+40,Data Scientist,"Data Scientist , AI /Machine Learning Engineer",Uplers,"['Generative AI', 'Machine Learning', 'software design patterns']",Full time,"Hospet, India",0-5 Years
+41,Machine Learning Engineer,Machine Learning Ops Engineer,LTIMindtree Limited,"['Machine Learning Ops', 'Machine Learning']",Full time,"Bengaluru / Bangalore, Chennai",5-9 Years
+42,Machine Learning Engineer,Machine Learning Engineer Required in Abroad,Donivia Overseas Private Limited,"['machine learning engineer', 'Machine Learning']",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",2-12 Years
+43,Machine Learning Engineer,Senior ML Engineer,Uplers,"['ChatGPT', 'llm prompt engineering', 'snowflake']",Full time,"Mumbai, India",4-6 Years
+44,Machine Learning Engineer,"Data Scientist , AI /Machine Learning Engineer",Uplers,"['Generative AI', 'Machine Learning', 'software design patterns']",Full time,"Nilanga, India",0-5 Years
+45,Machine Learning Engineer,"Data Scientist , AI /Machine Learning Engineer",Uplers,"['Generative AI', 'Machine Learning', 'software design patterns']",Full time,India,5-9 Years
+46,Machine Learning Engineer,Senior ML Engineer,Uplers,"['ChatGPT', 'llm prompt engineering', 'snowflake']",Full time,"Ghaziabad, India",4-6 Years
+47,Machine Learning Engineer,"Data Scientist , AI /Machine Learning Engineer",Uplers,"['Generative AI', 'Machine Learning', 'software design patterns']",Full time,"Coimbatore, India",0-5 Years
+48,Machine Learning Engineer,Machine Learning Engineer,Company name confidential,"['Machine Learning', 'Python']","Work From Home, Full time",Bengaluru / Bangalore,0-4 Years
+49,Machine Learning Engineer,Senior Machine Learning Engineer,Porter,"['Statistics', 'snowflake', 'Statistical Modeling']",Full time,"Bengaluru / Bangalore, India",4-7 Years
+50,Machine Learning Engineer,Machine Learning Engineer 2,Twillio,"['Flink', 'Python', 'Java', 'Deep Learning', 'Dynamodb']",Full time,"Bengaluru / Bangalore, India",2-4 Years
