@@ -1,0 +1,26 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,Data Engineer,Data Engineer,Synechron Technologies Private Limited,"['Data Engineer', 'Spark', 'Hive', 'Sqoop', 'Kafka']",Full time,"Chennai, Pune",7-10 Years
+2,Data Engineer,Data Engineer- OBIEE,LTIMindtree Limited,"['Business Intelligence', 'OBIEE', 'Data Warehouse']",Full time,"Bengaluru / Bangalore, Mumbai",3-8 Years
+3,Data Engineer,Data Engineer,Synechron Technologies Private Limited,"['Data Engineer', 'Spark', 'Hive', 'Sqoop', 'Kafka']",Full time,"Bengaluru / Bangalore, Mumbai",7-10 Years
+4,Data Engineer,Data Engineer Ab Initio,Brain Management Consultants India Private Limited,"['Ab Initio GDE', 'Ab Initio', 'Abinitio']",Full time,"Bengaluru / Bangalore, Gurgaon / Gurugram",3-10 Years
+5,Data Engineer,Data Engineer - OACS,LTIMindtree Limited,"['OACS', 'OAC', 'OAS', 'OBIEE']",Full time,Mumbai,3-8 Years
+6,Data Analyst,Data Analyst,CGI Information Systems and Management Consultants Private Limited,"['Data Analyst', 'SQL Server', 'SSIS', 'Ssrs', 'Power Bi']",Full time,Bengaluru / Bangalore,5-8 Years
+7,Data Analyst,Data Analyst/ETL implementation,Quess IT Staffing (Formerly known as Magna Infotech),['ETL implementation Informatica'],Full time,Chennai,8-13 Years
+8,Data Analyst,Application Support Analyst â Data Support,S&P Global,"['unicast', 'Oracle Database', 'Networking Protocols']",Full time,"Chennai, India",2-4 Years
+9,Data Analyst,Data Analyst,HNM Solutions,"['Data Analyst', 'power pi', 'Sql Query']",Full time,Chennai,7-7 Years
+10,Data Analyst,Data Analyst | Business Analyst | Fresher IT Job - Fresher Can Apply Salary 45K,Structured Learning Assistance Consultants India Private Limited,"['Data Analyst', 'Reporting Analyst', 'Mis Executive']",Full time,"Delhi, Noida",0-5 Years
+11,Data Architect,Hiring for Sr. Data Architect,Synechron Technologies Private Limited,"['Aws Cloud', 'Machine Learning', 'Data Governance']",Full time,Pune,12-20 Years
+12,Data Architect,Lead Data Engineer / Data Architect,Coforge,"['Data Lineage', 'Data Catalog', 'Data Dictionary Management']",Full time,"Bengaluru / Bangalore, India",0-2 Years
+13,Data Architect,Architect - Data Platform,PhonePe,"['Parallel Processing', 'hadoop', 'Java', 'python']",Full time,"Bengaluru / Bangalore, India",8-10 Years
+14,Data Architect,Architect - Test Data Engineering,AT&T Cybersecurity,"['Data Analysis', 'Test Data Management', 'Sql']",Full time,"Hyderabad / Secunderabad, Telangana, India",8-12 Years
+15,Data Architect,Automation Architect - Data Science,Ericsson,"['AI/ML', 'architecture', 'Java', 'Jenkins', 'Data Science']",Full time,"Noida, India",8-15 Years
+16,Data Scientist,Data Scientist,Synechron Technologies Private Limited,"['Kanban', 'Data Scientist', 'Agile', 'Data Science']",Full time,"Chennai, Pune",10-15 Years
+17,Data Scientist,Data Scientist,Synechron Technologies Private Limited,"['Kanban', 'Data Scientist', 'Agile', 'Data Science']",Full time,Gurgaon / Gurugram,10-15 Years
+18,Data Scientist,Data Scientist,Synechron Technologies Private Limited,"['Kanban', 'Data Scientist', 'Agile', 'Data Science']",Full time,"Bengaluru / Bangalore, Mumbai",10-15 Years
+19,Data Scientist,Data Scientist Level_1,Michelin,"['analytical', 'Business', 'Ai', 'Engineering', 'Problem Solving']",Full time,"Pune, India",Fresher
+20,Data Scientist,Remote Data Scientist,Turing,[],Full time,"Delhi, India",Fresher
+21,Machine Learning Engineer,Machine Learning Ops Engineer,LTIMindtree Limited,"['Machine Learning Ops', 'Machine Learning', 'MLops']",Full time,"Bengaluru / Bangalore, Chennai",5-9 Years
+22,Machine Learning Engineer,Machine Learning Engineer Required in Abroad,Donivia Overseas Private Limited,"['machine learning engineer', 'Machine Learning']",Full time,"Bengaluru / Bangalore, Hyderabad / Secunderabad, Telangana",2-12 Years
+23,Machine Learning Engineer,"Engineer Lead, Senior",Qualcomm,"['LLMs', 'CUDNN', 'Problem Solver', 'C/C++/Python programming']",Full time,"Bengaluru / Bangalore, India",1-2 Years
+24,Machine Learning Engineer,ML Developer- WFH,Uplers,"['ChatGPT', 'llm prompt engineering', 'snowflake']",Full time,"Chennai, India",4-6 Years
+25,Machine Learning Engineer,Staff Machine Learning Engineer,PayPal,"['Ai', 'Machine Learning', 'Pytorch', 'Gcp', 'Hadoop']",Full time,India,4-5 Years
