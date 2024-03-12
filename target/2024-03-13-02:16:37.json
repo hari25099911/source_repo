@@ -1,0 +1,171 @@
+{
+    "data engineer": {
+        "company_dict": {
+            "synechron technologies private limited": 4,
+            "ltimindtree limited": 1
+        },
+        "skill_dict": {
+            "spark": 3,
+            "big data": 2,
+            "hive": 2,
+            "sqoop": 2,
+            "kafka": 2,
+            "hadoop": 1,
+            "oacs": 1,
+            "oac": 1,
+            "oas": 1,
+            "obiee": 1
+        },
+        "location_dict": {
+            "mumbai": 3,
+            "chennai": 2,
+            "hyderabad": 1,
+            "pune": 1,
+            "bengaluru": 1
+        },
+        "job_type_dict": {
+            "full time": 5
+        },
+        "experience_dict": {
+            "entry level": 0,
+            "mid level": 1,
+            "senior level": 4
+        }
+    },
+    "data analyst": {
+        "company_dict": {
+            "quess it staffing (formerly known as magna infotech)": 1,
+            "crowdstrike": 1,
+            "structured learning assistance consultants india private limited": 1,
+            "maxgen technologies private limited": 1,
+            "coforge": 1
+        },
+        "skill_dict": {
+            "etl implementation informatica": 1,
+            "snowflake": 1,
+            "machine learning": 1,
+            "tableau": 1,
+            "sql": 1,
+            "reporting analyst": 1,
+            "mis executive": 1,
+            "internship": 1,
+            "live projects": 1,
+            "academic projects": 1
+        },
+        "location_dict": {
+            "pune": 2,
+            "chennai": 1,
+            "delhi": 1,
+            "aurangabad": 1,
+            "hyderabad": 1
+        },
+        "job_type_dict": {
+            "full time": 5
+        },
+        "experience_dict": {
+            "entry level": 2,
+            "mid level": 0,
+            "senior level": 3
+        }
+    },
+    "data architect": {
+        "company_dict": {
+            "synechron technologies private limited": 4,
+            "databricks": 1
+        },
+        "skill_dict": {
+            "hadoop": 4,
+            "data solutions": 3,
+            "big data": 3,
+            "aws cloud": 1,
+            "machine learning": 1,
+            "data governance": 1,
+            "scikit-learn": 1,
+            "hpo": 1,
+            "java": 1,
+            "pandas": 1
+        },
+        "location_dict": {
+            "bengaluru": 2,
+            "pune": 2,
+            "mumbai": 1,
+            "chennai": 1,
+            "hyderabad": 1
+        },
+        "job_type_dict": {
+            "full time": 5
+        },
+        "experience_dict": {
+            "entry level": 0,
+            "mid level": 0,
+            "senior level": 5
+        }
+    },
+    "data scientist": {
+        "company_dict": {
+            "synechron technologies private limited": 3,
+            "fis": 1,
+            "michael page": 1
+        },
+        "skill_dict": {
+            "data science": 4,
+            "kanban": 3,
+            "agile": 3,
+            "api integrations": 1,
+            "powerbi reports": 1,
+            "azure sql mi": 1,
+            "ai": 1,
+            "six sigma": 1,
+            "ml": 1,
+            "change management": 1
+        },
+        "location_dict": {
+            "chennai": 2,
+            "pune": 2,
+            "bengaluru": 1,
+            "mumbai": 1,
+            "gurugram": 1
+        },
+        "job_type_dict": {
+            "full time": 5
+        },
+        "experience_dict": {
+            "entry level": 0,
+            "mid level": 0,
+            "senior level": 5
+        }
+    },
+    "machine learning engineer": {
+        "company_dict": {
+            "atlassian": 2,
+            "ltimindtree limited": 1,
+            "donivia overseas private limited": 1,
+            "uplers": 1
+        },
+        "skill_dict": {
+            "machine learning": 2,
+            "openai llms": 2,
+            "machine learning ops": 1,
+            "mlops": 1,
+            "sci-kit-learn": 1,
+            "keras/tensorflow/pytorch": 1,
+            "chatgpt": 1,
+            "llm prompt engineering": 1,
+            "snowflake": 1,
+            "restful microservices": 1
+        },
+        "location_dict": {
+            "bengaluru": 4,
+            "chennai": 2,
+            "hyderabad": 1
+        },
+        "job_type_dict": {
+            "full time": 5
+        },
+        "experience_dict": {
+            "entry level": 2,
+            "mid level": 1,
+            "senior level": 2
+        }
+    }
+}
